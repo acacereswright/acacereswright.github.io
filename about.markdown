@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Projects
+layout: home
+title: About
 ---
+
+Hello! My name is Alex Caceres-Wright and I am currently pursing a masters degree in Computer Science and Enginnering. I am primrily intersted in Natural Language Processing and Computational Linguistics.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
