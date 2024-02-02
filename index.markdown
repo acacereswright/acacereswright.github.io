@@ -5,7 +5,7 @@ title: About
 
 Hello! My name is Alex Caceres-Wright and I am currently pursing a masters degree in Computer Science and Enginnering. I am primarily intersted in Natural Language Processing, Computational Linguistics, and Data Science.
 
-Feel free to browse my website or [download my resume here](/documents/Caceres-Wright_resume.pdf).
+Feel free to browse my website or [download my resume here](documents/Caceres-Wright_resume.pdf).
 
 ## Education
 
@@ -52,14 +52,16 @@ I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) wit
 
 ## Awards and Involvements
 
-### Academic Involvement
+### Academic
 
+* Alumni Mentor: Tri-Mentoring Program: Cognitive System Department, University of British Columbia. September 2022-Present.
+* Member, Asociation for Computing Machinery (ACM). January 2023 - Present.
 * Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
 * Bloomberg Accelerator Summer School. Virtual, June 2023.
 * First Place Prize, M&T Bank's An Innovative Way to Promote Financial Understanding. UBHacking: Fall 2022 (Hackathon). November 5-6, 2022.
 * Outstanding International Student Award. Academic Year 2017-2018.
 
-### Personal Involvement
+### Personal
 
 * Second Degree Black Belt, Kyokushin Karate. Ken Wa Kan Karate. Acheived March 15, 2015.
-* Assisted with Children's Karate Classes Ken Wa Kan Karate, Winter 2010 - Summer 2017.
+* Assisted with Children's Karate Classes. Ken Wa Kan Karate and Public School 11, Winter 2010 - Summer 2017.
