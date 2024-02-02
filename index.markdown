@@ -1,31 +1,65 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
-title: Projects
+layout: home
+title: About
 ---
 
-### Museum Interactive Expierence
+Hello! My name is Alex Caceres-Wright and I am currently pursing a masters degree in Computer Science and Enginnering. I am primarily intersted in Natural Language Processing, Computational Linguistics, and Data Science.
 
-This was completed as my master's capstone project. It was a full stack web application developed for the Niagra Aerospace Museum. Designed primarily to allow museum patrons to complete a scavanger hunt using a smart phone, it also could serve as an inventory system for museum curators as well.
+Feel free to browse my website or [download my resume here](/documents/Caceres-Wright_resume.pdf).
 
-On the patron side, each participant is able to specify a level of difficulty and the length of time, and are presnted with a subset of availble questions based on their choice. To solve each clue the participant would tap their phone on an NFC token nearby each exhibit, and would be presented with immediatge feed back.
+## Education
 
-On the Museum Curator side, each curator is able to enter scavenger hunt clues as well as exhibit information. Once an item has been entered intothe system, curators are also able to edit it's information, including marking items as active or not, which indicates if they can be presented to patrons or not.
+I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) with a minor in Psychology from the University of British Columbia, and am currently pursuing a Masters in Computer Science and Enginnering at the University of British Columbia.
 
-### Financial Literacy Application
+### Selected Coursework
 
-This was an application developed at UBHacking, an annual 24 hour hackathon run at the University at Bufalo. My group chose to create a Financial Literacy Application designed to consolidate information that new immigrants may find useful when they arrive in the United States. Such information could include different types of bank accounts and credit cards and how to open them, as well as information related to the FAFSA and other scholarship information.
+|Undergraduate Level|Graduate Level|
+|-------------------|--------------|
+|CPSC 210: Software Construction| CSE 521: Operating Systems|
+|CPSC 221: Basic Algorithms and Data Structures|CSE 531: Analysis of Algorithms|
+|CPSC 368: Databases in Data Science| CSE 560: Data Models Query Languages|
+|CPSC 322: Introduction to Artificial Intelligence|CSE 565: Computer Security|
+|CPSC 330: Applied Machine Learning|CSE 567: Computational Lingustics|
+|CPSC 312: Functional and Logical Programming| CSE 587: Computational Finance|
+|LING 345: Pragmatics|CSE 709: Selected Topics on Biometrics and User Identification|
 
-For more information about the hackathon please [click here](https://devpost.com/software/something-catchy).
+## Skills and Tools
 
-### Research Project in Cognitive Systems
+### Programming Languages
 
-As part of my undergraduate coursework I was required to complete a research project. My project was in the area of moral psychology, and was focused around how the level of privacy affects a person's altruism. To do so, I coded a variation on the public goods game using python and a framework designed for economic games called oTree.
+|Language|Proficiency|
+|--------|----------|
+|Python|Intermediate|
+|Java|Intermediate|
+|SQL|Advanced|
+|C++|Intermediate|
+|C| Beginner|
+|Javascript| Intermediate|
+|R| Intermediate|
 
-If you'd like to view a copy of the final report you can [download it](https://alexcw-5.github.io/Caceres-Wright_undergrad_capstone/mydoc.pdf) here.
+### Tools
 
-### Pintos Simple Operating Systems
+| Tool | Proficiency |
+|------|------------|
+|Git|Intermediate|
+|Jupyter|Advanced|
+|PostgreSQL|Intermediate|
+|Firebase Realtime Database|Advanced|
+|Pandas|Intermediate|
+|Visual Studio|Intermediate|
+|JUnit Testing|Advanced|
+|Flask|Beginner|
 
-### Lossy Image Compression
+## Awards and Involvements
+
+### Academic Involvement
+
+* Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
+* Bloomberg Accelerator Summer School. Virtual, June 2023.
+* First Place Prize, M&T Bank's An Innovative Way to Promote Financial Understanding. UBHacking: Fall 2022 (Hackathon). November 5-6, 2022.
+* Outstanding International Student Award. Academic Year 2017-2018.
+
+### Personal Involvement
+
+* Second Degree Black Belt, Kyokushin Karate. Ken Wa Kan Karate. Acheived March 15, 2015.
+* Assisted with Children's Karate Classes Ken Wa Kan Karate, Winter 2010 - Summer 2017.
