@@ -3,9 +3,11 @@ layout: home
 title: About
 ---
 
-<p style="text-align:center;">
+<!-- <p style="text-align:center;">
 <img src="/img/sunset_profile.JPG" alt="image" width="300" height="400">
-<p>
+<p> -->
+
+![Alex Headshot](img/sunset_profile.JPG){width="225px" height=325px align="center"}
 
 Hello! My name is Alex Caceres-Wright and I am currently pursing a Masters Degree in Computer Science and Enginnering. I am primarily intersted in Natural Language Processing, Computational Linguistics, and Data Science.
 
@@ -29,9 +31,9 @@ I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) wit
 
 ## Technical Skills and Tools
 
-|Programming Languages|Tools|
+<!-- |Programming Languages|Tools|
 |--|--|
-|<table> <tr><th>Language</th><th>Proficiency</th></tr><tr><td>Python</td><td>Intermediate</td></tr> <tr><td>Java</td><td>Intermediate</td></tr> <tr><td>SQL</td><td>Advanced</td></tr><tr><td>C++</td><td>Intermediate</td></tr> <tr><td>C</td><td>Beginner</td></tr><tr><td>Javascript</td><td>Intermediate</td></tr> <tr><td>R</td><td>Intermediate</td></tr></table>|<table> <tr><th>Tool</th><th>Proficency</th></tr><tr><td>Git</td><td>Intermediate</td></tr><tr><td>Jupyter</td><td>Advanced</td></tr><tr><td>PostgreSQL</td><td>Intermediate</td></tr><tr><td>Firebase Realtime Database</td><td>Advanced</td></tr> <tr><td>Pandas</td><td>Intermediate</td></tr><tr><td>Visual Studio</td><td>Intermediate</td></tr><tr><td>JUnit Testing</td><td>Advanced</td></tr><tr><td>Flask</td><td>Beginner</td></tr></table>|
+|<table> <tr><th>Language</th><th>Proficiency</th></tr><tr><td>Python</td><td>Intermediate</td></tr> <tr><td>Java</td><td>Intermediate</td></tr> <tr><td>SQL</td><td>Advanced</td></tr><tr><td>C++</td><td>Intermediate</td></tr> <tr><td>C</td><td>Beginner</td></tr><tr><td>Javascript</td><td>Intermediate</td></tr> <tr><td>R</td><td>Intermediate</td></tr></table>|<table> <tr><th>Tool</th><th>Proficency</th></tr><tr><td>Git</td><td>Intermediate</td></tr><tr><td>Jupyter</td><td>Advanced</td></tr><tr><td>PostgreSQL</td><td>Intermediate</td></tr><tr><td>Firebase Realtime Database</td><td>Advanced</td></tr> <tr><td>Pandas</td><td>Intermediate</td></tr><tr><td>Visual Studio</td><td>Intermediate</td></tr><tr><td>JUnit Testing</td><td>Advanced</td></tr><tr><td>Flask</td><td>Beginner</td></tr></table>| -->
 
 ### Programming Languages
 
