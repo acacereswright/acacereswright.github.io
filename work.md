@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work Experience
+#title: Work Experience
 ---
 
 #### Graduate Research Assistant, University at Buffalo. June 2023 - Present
