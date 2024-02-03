@@ -1,9 +1,9 @@
 ---
 layout: home
-#title: About
+title: About
 ---
 
-![Alex](img/sunset_profile.JPG =200x300 center)
+![Alex](img/sunset_profile.JPG =300x400)
 
 Hello! My name is Alex Caceres-Wright and I am currently pursing a Masters Degree in Computer Science and Enginnering. I am primarily intersted in Natural Language Processing, Computational Linguistics, and Data Science.
 
