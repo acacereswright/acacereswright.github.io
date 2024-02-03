@@ -7,7 +7,7 @@ title: About
 <img src="/img/sunset_profile.JPG" alt="image" width="300" height="400">
 <p> -->
 
-![Alex Headshot](img/sunset_profile.JPG){width="225px" height=325px align="center"}
+![Alex Headshot](img/sunset_profile.JPG){: height=250px "center"}
 
 Hello! My name is Alex Caceres-Wright and I am currently pursing a Masters Degree in Computer Science and Enginnering. I am primarily intersted in Natural Language Processing, Computational Linguistics, and Data Science.
 
