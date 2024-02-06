@@ -20,7 +20,7 @@
 
 title: Alex Caceres-Wright
 email: acacereswright@gmail.com
-phone: +1 (212) 518-4269
+phone_number: +1 (212) 518-4269
 #description: Alex Caceres Wright
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.acacereswright.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,7 +31,9 @@ markdown: kramdown
 # Build settings
 theme: minima
 #remote_theme: pages-themes/midnight@v0.2.0
-
+minima: 
+  skin: dark
+  
 plugins:
   - jekyll-feed
   #- jekyll-remote-theme
