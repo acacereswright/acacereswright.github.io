@@ -66,7 +66,7 @@ I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) wit
 * Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
 * Bloomberg Accelerator Summer School. Virtual, June 2023.
 * First Place Prize, M&T Bank's An Innovative Way to Promote Financial Understanding. UBHacking: Fall 2022 (Hackathon). November 5-6, 2022.
-* Outstanding International Student Award. Academic Year 2017-2018.
+* Outstanding International Student Award, University of British Columbia. Academic Year 2017-2018.
 
 ### Personal
 
