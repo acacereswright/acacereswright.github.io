@@ -11,7 +11,7 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 
 ## Education
 
-I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) with a minor in Psychology from the University of British Columbia, and am currently pursuing a Masters in Computer Science and Enginnering at the University at Buffalo (SUNY).
+I hold a Bachelors Degree in Cognitive Systems (Cognition and Brain Stream) with a minor in Psychology from the University of British Columbia, and am currently pursuing a Masters in Computer Science and Enginnering at the University at Buffalo (SUNY).
 
 ### Selected Coursework
 
@@ -26,10 +26,6 @@ I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) wit
 |PSYC 336: Psychology of Language|CSE 709: Selected Topics on Biometrics and User Identification|
 
 ## Technical Skills and Tools
-
-<!-- |Programming Languages|Tools|
-|--|--|
-|<table> <tr><th>Language</th><th>Proficiency</th></tr><tr><td>Python</td><td>Intermediate</td></tr> <tr><td>Java</td><td>Intermediate</td></tr> <tr><td>SQL</td><td>Advanced</td></tr><tr><td>C++</td><td>Intermediate</td></tr> <tr><td>C</td><td>Beginner</td></tr><tr><td>Javascript</td><td>Intermediate</td></tr> <tr><td>R</td><td>Intermediate</td></tr></table>|<table> <tr><th>Tool</th><th>Proficency</th></tr><tr><td>Git</td><td>Intermediate</td></tr><tr><td>Jupyter</td><td>Advanced</td></tr><tr><td>PostgreSQL</td><td>Intermediate</td></tr><tr><td>Firebase Realtime Database</td><td>Advanced</td></tr> <tr><td>Pandas</td><td>Intermediate</td></tr><tr><td>Visual Studio</td><td>Intermediate</td></tr><tr><td>JUnit Testing</td><td>Advanced</td></tr><tr><td>Flask</td><td>Beginner</td></tr></table>| -->
 
 ### Programming Languages
 
@@ -61,8 +57,8 @@ I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) wit
 
 ### Academic
 
-* Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Department, University of British Columbia. September 2022-Present.
 * Member, Asociation for Computing Machinery (ACM). January 2023 - Present.
+* Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Department, University of British Columbia. September 2022-Present.
 * Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
 * Bloomberg Accelerator Summer School. Virtual, June 2023.
 * First Place Prize, M&T Bank's An Innovative Way to Promote Financial Understanding. UBHacking: Fall 2022 (Hackathon). November 5-6, 2022.
