@@ -19,10 +19,11 @@ I hold a Bachelors Degree in Cognitive Systems (Cognition and Brain Stream) with
 |-------------------|--------------|
 |CPSC 210: Software Construction| CSE 521: Operating Systems|
 |CPSC 221: Basic Algorithms and Data Structures|CSE 531: Analysis of Algorithms|
-|CPSC 368: Databases in Data Science| CSE 560: Data Models Query Languages|
+|CPSC 368: Databases in Data Science| CSE 560: Data Models and Query Languages|
 |CPSC 322: Introduction to Artificial Intelligence|CSE 565: Computer Security|
 |CPSC 330: Applied Machine Learning|CSE 567: Computational Lingustics|
 |CPSC 312: Functional and Logical Programming| CSE 587: Computational Finance|
+|COGS 300: Understanding and Designing Cognitive Systems|CSE 589: Modern Network Concepts|
 |PSYC 336: Psychology of Language|CSE 709: Selected Topics on Biometrics and User Identification|
 
 ## Technical Skills and Tools

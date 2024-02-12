@@ -7,7 +7,7 @@ title: Projects
 
 This was completed as my masters capstone project. It was a full stack web application developed for the Niagra Aerospace Museum. Designed primarily to allow museum patrons to complete a scavanger hunt using a smart phone, it also could serve as an inventory system for museum curators as well.
 
-On the patron side, each participant is able to specify a level of difficulty and the length of time, and are presnted with a subset of availble questions based on their choice. To solve each clue the participant would tap their phone on an Near Field Communication (NFC) token nearby each exhibit, and would be presented with immediate feed back.
+On the patron side, each participant is able to specify a level of difficulty and the length of time, and are presnted with a subset of availble questions based on their choice. To solve each clue the participant would tap their phone on an Near Field Communication (NFC) token nearby each exhibit, and would be presented with immediate feedback. Once all clues were satisified the player is able to see how long their hunt lasted and are asked if they would like their score to be submitted to the leaderboard.
 
 On the Museum Curator side, each curator is able to enter scavenger hunt clues as well as exhibit information. Once an item has been entered intothe system, curators are also able to edit it's information, including marking items as active or not, which indicates if they can be presented to patrons or not.
 
