@@ -5,13 +5,13 @@ title: About
 
 ![Alex Headshot](img/sunset_profile.JPG)
 
-Hello! My name is Alex Caceres-Wright and I am currently pursing a Masters Degree in Computer Science and Enginnering. I am primarily intersted in Natural Language Processing, Computational Linguistics, and Data Science.
+Hello! My name is Alex Caceres-Wright and I am currently pursuing a Master's Degree in Computer Science and Enginnering. I am primarily interested in Natural Language Processing, Computational Linguistics, and Data Science. Along with this I am fluent in both English and Spanish.
 
 Feel free to browse my website or [download my resume here](documents/Alex_Caceres-Wright_Resume.pdf).
 
 ## Education
 
-I hold a Bachelors Degree in Cognitive Systems (Cognition and Brain Stream) with a minor in Psychology from the University of British Columbia, and am currently pursuing a Masters in Computer Science and Enginnering at the University at Buffalo (SUNY).
+I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) with a minor in Psychology from the University of British Columbia, and am currently pursuing a Master's in Computer Science and Engineering at the University at Buffalo (SUNY).
 
 ### Selected Coursework
 
@@ -55,6 +55,10 @@ I hold a Bachelors Degree in Cognitive Systems (Cognition and Brain Stream) with
 
 
 ## Awards and Involvements
+
+### Conference Talks and Posters
+
+* (recently accepted) Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter. Co-Authored with Kenneth Joseph, Stef M. Shuster, and Grant Bunn. To be presented at the 10th International Confernce on Computational Social Science (IC2S2), July 2024. 
 
 ### Academic
 
