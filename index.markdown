@@ -56,9 +56,9 @@ I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) wit
 
 ## Awards and Involvements
 
-### Conference Talks and Posters
+### Conference Posters
 
-* (recently accepted) Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter. Co-Authored with Kenneth Joseph, Stef M. Shuster, and Grant Bunn. To be presented at the 10th International Confernce on Computational Social Science (IC2S2), July 2024. 
+* (recently accepted) "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". Co-Authored with Kenneth Joseph, Stef M. Shuster, and Grant Bunn. To be presented at the 10th International Conference on Computational Social Science (IC2S2), July 2024. 
 
 ### Academic
 
