@@ -15,4 +15,4 @@ As a member service representative, I ensured all YMCA members were greeted on e
 
 #### Teaching Assistant, University of British Columbia. January 2020 - December 2020.
 
-I worked as a teaching assitant for CPSC 210: Software Construction for three semesters. The primary aspects of my job were holding office hours, running labratories, and mentoring a group of roughly 30 students each semester while they developed a personal projects. Topics covered in the course included topics such as class inheritence, exception handling, testing, as well as design patterns such as the observer and iterator.
+I worked as a teaching assitant for CPSC 210: Software Construction for three semesters. The primary aspects of my job were holding office hours, running labratories, and mentoring a group of roughly 30 students each semester while they developed a semester long personal project. Topics covered in the course included topics such as class inheritence, exception handling, testing, as well as design patterns such as the observer and iterator.

@@ -62,7 +62,7 @@ I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) wit
 
 ### Academic
 
-* Member, Asociation for Computing Machinery (ACM). January 2023 - Present.
+* Member, Association for Computing Machinery (ACM). January 2023 - Present.
 * Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Program, University of British Columbia. September 2022-Present.
 * Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
 * Bloomberg Accelerator Summer School. Virtual, June 2023.
