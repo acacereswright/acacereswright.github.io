@@ -71,5 +71,6 @@ I hold a Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) wit
 
 ### Personal
 
+* Volunteer Translator, COVID Information Commons. April 2024 - Present.
 * Second Degree Black Belt, Kyokushin Karate. Ken Wa Kan Karate. Acheived March 15, 2015.
 * Assisted with Children's Karate Classes. Ken Wa Kan Karate and Public School 11, Winter 2010 - Summer 2017.
