@@ -7,7 +7,10 @@ title: Work Experience
 
 I have been working with the Computation and Equity (cUBe) Lab, which is directed by Dr. Kenneth Joseph. The primary focus of my research has been to develop tool for automatic stance detection using Large Language Models. A secondary goal of this project was to create a tool which takes in a large (several million) number of tweets and a small set of keywords and provides a set of similar tweets.
 
-Recently part of our work was accepted, in the form of an extended abstract, to the 10th International Conference on Computational Social Science (IC2S2), which will occur in July 2024.
+Various aspects of our work will appear in the following conferences:
+
+1) A paper to appear in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 2024.
+2) An extended abstract and poster at the 10th International Conference on Computational Social Science (IC2S2), July 2024.
 
 ### Member Service Representative, Lockport Family YMCA. September 2023 - May 2024
 
