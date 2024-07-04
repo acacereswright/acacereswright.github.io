@@ -7,7 +7,7 @@ title: Projects
 
 As part of my Computational Investment course, I worked to develop a simple trading model and test it in different areas. A secondary goal of this project was to test out different backtesting libraries. This was a group porject with contribution form indiviauls with both a economics and computer science background emphasizing both interdisciplinary communication as well as understanding of both programming and economic concepts.
 
-We developed two basic trading models and implemented them in python, using various backtesting models such as backtesting.py, zipline, and quantopian to determine model performance. Data was drawn from the companies of the S&P 500 index from a 20 year period. Using this information, we were able to report results on different levels such as individual or groups of stocks, different sectors (as listed on the S&P), the overall S&P index. 
+We developed two basic trading models and implemented them in python, using various backtesting models such as backtesting.py, zipline, and quantopian to determine model performance. Data was drawn from the companies of the S&P 500 index from a 20 year period. Using this information, we were able to report results on different levels such as individual or groups of stocks, different sectors (as listed on the S&P), and the overall S&P index. 
 
 ### Museum Interactive Expierence
 
