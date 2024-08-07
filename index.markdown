@@ -73,8 +73,8 @@ I hold a Master's Degree in Computer Science and Enginering from the University 
 
 ### Papers and Conference Posters
 
-* "Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset". Alexander Caceres-Wright\*, Naveen Udhayasankar, Grant Bunn, Stef M. Shuster, Kenneth Joseph. To appear in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 2024.
-* "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". Co-Authored with Kenneth Joseph, Stef M. Shuster, and Grant Bunn. To be presented at the 10th International Conference on Computational Social Science (IC2S2), July 2024.
+* "Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset". Alexander R. Caceres-Wright\*, Naveen Udhayasankar, Grant Bunn, Stef M. Shuster, Kenneth Joseph. To appear in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 18-20, 2024.
+* "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". Alexander R. Caceres-Wright\*, Grant Bunn, Stef M. Shuster, Kenneth Joseph. Extended Abstract and poster presented at the 10th International Conference on Computational Social Science (IC2S2), July 17-20, 2024.
 
 \* Denotes first author
 
