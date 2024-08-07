@@ -28,7 +28,16 @@ I hold a Master's Degree in Computer Science and Enginering from the University 
 
 ### Further Learning
 
-* Machine Learning Specalization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [Verify Here](documents/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
+**Currently in Progress**
+
+* Applied Data Science with Python Specalization. University of Michigan via Coursera.
+  * Learning and practicing skills such as data manipulation, querying, and visualizations, as well as text mining and social media analytics
+* Mathematics for Machine Learning Specalization. Imperial College London via Coursera.
+  * Covering three important mathmatical areas for Machine Learning: Linear Alebra, Multivariate Calculus, and Principal Component Analysis (PCA)
+
+**Completed**
+
+* Machine Learning Specalization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [View Certificate](documents/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
   * Learned about both supervised and unsupervised machine learning techniques such as linear and logisitic regression, decision trees, neural networks, clustering systems and reinforcement learning techniques
   * Implemented several algorithms in python using tensorflow
 
