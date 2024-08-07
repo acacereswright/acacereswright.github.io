@@ -26,6 +26,12 @@ I hold a Master's Degree in Computer Science and Enginering from the University 
 |COGS 300: Understanding and Designing Cognitive Systems|CSE 589: Modern Network Concepts|
 |PSYC 336: Psychology of Language|CSE 709: Selected Topics on Biometrics and User Identification|
 
+### Further Learning
+
+* Machine Learning Specalization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [Verify Here](documents/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
+  * Learned about both supervised and unsupervised machine learning techniques such as linear and logisitic regression, decision trees, neural networks, clustering systems and reinforcement learning techniques
+  * Implemented several algorithms in python using tensorflow
+
 ## Technical Skills and Tools
 
 ### Programming Languages
