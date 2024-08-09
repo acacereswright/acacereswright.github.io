@@ -30,6 +30,8 @@ I hold a Master's Degree in Computer Science and Enginering from the University 
 
 **Currently in Progress**
 
+* Blockchain Specialization. University at Buffalo via Coursera.
+  * Introduces the underpinnings and basics of Blockchain techology, and now to apply it
 * Applied Data Science with Python Specalization. University of Michigan via Coursera.
   * Learning and practicing skills such as data manipulation, querying, and visualizations, as well as text mining and social media analytics
 * Mathematics for Machine Learning Specalization. Imperial College London via Coursera.
