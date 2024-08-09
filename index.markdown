@@ -9,39 +9,28 @@ Hello! My name is Alex Caceres-Wright. I am primarily interested in Natural Lang
 
 Feel free to browse my website or [download my resume here](documents/Alex_Caceres-Wright_Resume.pdf).
 
+**Featured Work**
+
+* A. Caceres-Wright, N. Udhayasankar, G. Bunn, S. Shuster, K. Joseph. "Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset". To appear in the proceedings of the [17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS)](https://sbp-brims.org/2024/), September 18-20, 2024.
+* A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". Extended Abstract and poster presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
+
 ## Education
 
-I hold a Master's Degree in Computer Science and Enginering from the University at Buffalo (SUNY) as well as Bachelor's Degree in Cognitive Systems (Cognition and Brain Stream) with a minor in Psychology from the University of British Columbia.
+* Master of Science in Computer Science and Enginering from the University at Buffalo (SUNY). June 2024.
+* Bachelor of Arts in Cognitive Systems (Cognition and Brain Stream) with a minor in Psychology from the University of British Columbia. May 2022.
 
 ### Selected Coursework
 
-|Undergraduate Level|Graduate Level|
+|Graduate Level|Undergraduate Level|
 |-------------------|--------------|
-|CPSC 210: Software Construction| CSE 521: Operating Systems|
-|CPSC 221: Basic Algorithms and Data Structures|CSE 531: Analysis of Algorithms|
-|CPSC 368: Databases in Data Science| CSE 560: Data Models and Query Languages|
-|CPSC 322: Introduction to Artificial Intelligence|CSE 565: Computer Security|
-|CPSC 330: Applied Machine Learning|CSE 567: Computational Lingustics|
-|CPSC 312: Functional and Logical Programming| CSE 587: Computational Investment|
-|COGS 300: Understanding and Designing Cognitive Systems|CSE 589: Modern Network Concepts|
-|PSYC 336: Psychology of Language|CSE 709: Selected Topics on Biometrics and User Identification|
-
-### Further Learning
-
-**Currently in Progress**
-
-* Blockchain Specialization. University at Buffalo via Coursera.
-  * Introduces the underpinnings and basics of Blockchain techology, and now to apply it
-* Applied Data Science with Python Specalization. University of Michigan via Coursera.
-  * Learning and practicing skills such as data manipulation, querying, and visualizations, as well as text mining and social media analytics
-* Mathematics for Machine Learning Specalization. Imperial College London via Coursera.
-  * Covering three important mathmatical areas for Machine Learning: Linear Alebra, Multivariate Calculus, and Principal Component Analysis (PCA)
-
-**Completed**
-
-* Machine Learning Specalization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [View Certificate](documents/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
-  * Learned about both supervised and unsupervised machine learning techniques such as linear and logisitic regression, decision trees, neural networks, clustering systems and reinforcement learning techniques
-  * Implemented several algorithms in python using tensorflow
+|CSE 521: Operating Systems|CPSC 210: Software Construction|
+|CSE 531: Analysis of Algorithms|CPSC 221: Basic Algorithms and Data Structures|
+|CSE 560: Data Models and Query Languages|CPSC 368: Databases in Data Science|
+|CSE 565: Computer Security|CPSC 322: Introduction to Artificial Intelligence|
+|CSE 567: Computational Lingustics|CPSC 330: Applied Machine Learning|
+|CSE 587: Computational Investment|CPSC 312: Functional and Logical Programming|
+|CSE 589: Modern Network Concepts|COGS 300: Understanding and Designing Cognitive Systems|
+|CSE 709: Selected Topics on Biometrics and User Identification|PSYC 336: Psychology of Language|
 
 ## Technical Skills and Tools
 
@@ -73,13 +62,6 @@ I hold a Master's Degree in Computer Science and Enginering from the University 
 
 ## Awards and Involvements
 
-### Papers and Conference Posters
-
-* "Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset". Alexander R. Caceres-Wright\*, Naveen Udhayasankar, Grant Bunn, Stef M. Shuster, Kenneth Joseph. To appear in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 18-20, 2024.
-* "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". Alexander R. Caceres-Wright\*, Grant Bunn, Stef M. Shuster, Kenneth Joseph. Extended Abstract and poster presented at the 10th International Conference on Computational Social Science (IC2S2), July 17-20, 2024.
-
-\* Denotes first author
-
 ### Academic
 
 * Member, Association for Computing Machinery (ACM). January 2023 - Present.
@@ -92,5 +74,22 @@ I hold a Master's Degree in Computer Science and Enginering from the University 
 ### Personal
 
 * Volunteer Translator, COVID Information Commons. April 2024 - Present.
-* Second Degree Black Belt, Kyokushin Karate. Ken Wa Kan Karate. Acheived March 15, 2015.
+* Second Degree Black Belt, Kyokushin Karate. Ken Wa Kan Karate. Achieved March 15, 2015.
 * Assisted with Children's Karate Classes. Ken Wa Kan Karate and Public School 11, Winter 2010 - Summer 2017.
+
+## Further Learning
+
+### Currently in Progress
+
+* Blockchain Specialization. University at Buffalo via Coursera.
+  * Introduces the underpinnings and basics of Blockchain techology, and now to apply it
+* Applied Data Science with Python Specalization. University of Michigan via Coursera.
+  * Learning and practicing skills such as data manipulation, querying, and visualizations, as well as text mining and social media analytics
+* Mathematics for Machine Learning Specalization. Imperial College London via Coursera.
+  * Covering three important mathmatical areas for Machine Learning: Linear Alebra, Multivariate Calculus, and Principal Component Analysis (PCA)
+
+### Completed
+
+* Machine Learning Specalization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [View Certificate](documents/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
+  * Learned about both supervised and unsupervised machine learning techniques such as linear and logisitic regression, decision trees, neural networks, clustering systems and reinforcement learning techniques
+  * Implemented several algorithms in python using tensorflow
