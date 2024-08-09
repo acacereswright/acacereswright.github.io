@@ -16,6 +16,10 @@ Various aspects of our work will appear in the following conferences:
 
 As a member service representative, I ensured all YMCA members were greeted on entry to the facility and ensured their needs were met. Along with this, I answered phone calls and kept up to date with all relevant programs, events, and procedures to be able to answer any questions and register members for special events and programs.
 
+#### Student Assistant, University at Buffalo. May 2023 - August 2023
+
+I volunteered as a student assistant in the X-Lab, directed by Dr. Jinjun Xiong. During my time there I conduced a literature review on current research into quantifying interdisciplinarity on various levels of scope such as the author or departmental level. Along with this I helped with the implementation and debugging of code to create a numerical value representing the interdiciplinarity of authors partially based on the simpson's diversity index.
+
 #### Teaching Assistant, University of British Columbia. January 2020 - December 2020
 
 I worked as a teaching assitant for CPSC 210: Software Construction for three semesters. The primary aspects of my job were holding office hours, running labratories, and mentoring a group of roughly 30 students each semester while they developed a semester long personal project. Topics covered in the course included topics such as class inheritence, exception handling, testing, as well as design patterns such as the observer and iterator.

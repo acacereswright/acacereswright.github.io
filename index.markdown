@@ -60,23 +60,6 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 |Flask|Beginner|
 |Spark|Intermediate|
 
-## Awards and Involvements
-
-### Academic
-
-* Member, Association for Computing Machinery (ACM). January 2023 - Present.
-* Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Program, University of British Columbia. September 2022-Present.
-* Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
-* Bloomberg Accelerator Summer School. Virtual, June 2023.
-* First Place Prize, M&T Bank's An Innovative Way to Promote Financial Understanding. UBHacking: Fall 2022 (Hackathon). November 5-6, 2022.
-* Outstanding International Student Award, University of British Columbia. Academic Year 2017-2018.
-
-### Personal
-
-* Volunteer Translator, COVID Information Commons. April 2024 - Present.
-* Second Degree Black Belt, Kyokushin Karate. Ken Wa Kan Karate. Achieved March 15, 2015.
-* Assisted with Children's Karate Classes. Ken Wa Kan Karate and Public School 11, Winter 2010 - Summer 2017.
-
 ## Further Learning
 
 ### Currently in Progress
@@ -93,3 +76,20 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 * Machine Learning Specalization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [View Certificate](documents/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
   * Learned about both supervised and unsupervised machine learning techniques such as linear and logisitic regression, decision trees, neural networks, clustering systems and reinforcement learning techniques
   * Implemented several algorithms in python using tensorflow
+
+## Awards and Involvements
+
+### Academic
+
+* Member, Association for Computing Machinery (ACM). January 2023 - Present.
+* Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Program, University of British Columbia. September 2022-Present.
+* Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
+* Bloomberg Accelerator Summer School. Virtual, June 2023.
+* First Place Prize, M&T Bank's An Innovative Way to Promote Financial Understanding. UBHacking: Fall 2022 (Hackathon). November 5-6, 2022.
+* Outstanding International Student Award, University of British Columbia. Academic Year 2017-2018.
+
+### Personal
+
+* Volunteer Translator, COVID Information Commons. April 2024 - Present.
+* Second Degree Black Belt, Kyokushin Karate. Ken Wa Kan Karate. Achieved March 15, 2015.
+* Assisted with Children's Karate Classes. Ken Wa Kan Karate and Public School 11, Winter 2010 - Summer 2017.
