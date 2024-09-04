@@ -64,8 +64,8 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 
 ### Currently in Progress
 
-* Blockchain Specialization. University at Buffalo via Coursera.
-  * Introduces the underpinnings and basics of Blockchain techology, and now to apply it
+* Applied Python Data Engineering Specilization. Duke University via Coursera.
+  * Learning how to work with data pipelines, how to gain insights from data, as well as leverage machine learning models to analyze data  
 * Applied Data Science with Python Specalization. University of Michigan via Coursera.
   * Learning and practicing skills such as data manipulation, querying, and visualizations, as well as text mining and social media analytics
 * Mathematics for Machine Learning Specalization. Imperial College London via Coursera.
