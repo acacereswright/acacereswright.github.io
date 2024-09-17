@@ -81,6 +81,7 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 
 ### Academic
 
+* Reviewer, 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation. September 2024.
 * Member, Association for Computing Machinery (ACM). January 2023 - Present.
 * Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Program, University of British Columbia. September 2022-Present.
 * Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
