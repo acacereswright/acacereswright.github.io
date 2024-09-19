@@ -5,11 +5,11 @@ title: Work Experience
 
 #### Graduate Research Assistant, University at Buffalo. June 2023 - Present
 
-I have been working with the Computation and Equity (cUBe) Lab, which is directed by Dr. Kenneth Joseph. The primary focus of my research has been to develop tool for automatic stance detection using Large Language Models. A secondary goal of this project was to create a tool which takes in a large (several million) number of tweets and a small set of keywords and provides a set of similar tweets.
+I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. The primary focus of my research has been to develop tool for automatic stance detection using Large Language Models. A secondary goal of this project was to create a tool which takes in a large (several million) number of tweets and a small set of keywords and provides a set of similar tweets.
 
 Various aspects of our work will appear in the following conferences:
 
-* A paper to appear in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 2024.
+* A paper in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 2024.
 * An extended abstract and poster at the 10th International Conference on Computational Social Science (IC2S2), July 2024.
 
 #### Member Service Representative, Lockport Family YMCA. September 2023 - May 2024

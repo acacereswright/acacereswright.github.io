@@ -11,7 +11,7 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 
 **Featured Work**
 
-* A. Caceres-Wright, N. Udhayasankar, G. Bunn, S. Shuster, K. Joseph. "Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset". To appear in the proceedings of the [17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS)](https://sbp-brims.org/2024/), September 18-20, 2024.
+* A. Caceres-Wright, N. Udhayasankar, G. Bunn, S. Shuster, K. Joseph. "Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset". Published at [17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS)](https://sbp-brims.org/2024/), September 18-20, 2024.
 * A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". Extended Abstract and poster presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
 
 ## Education
@@ -73,7 +73,7 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 
 ### Completed
 
-* Machine Learning Specalization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [View Certificate](documents/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
+* Machine Learning Specalization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [View Certificate](documents/certificates/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
   * Learned about both supervised and unsupervised machine learning techniques such as linear and logisitic regression, decision trees, neural networks, clustering systems and reinforcement learning techniques
   * Implemented several algorithms in python using tensorflow
 
