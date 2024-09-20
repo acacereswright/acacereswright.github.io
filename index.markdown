@@ -11,7 +11,7 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 
 **Featured Work**
 
-* A. Caceres-Wright, N. Udhayasankar, G. Bunn, S. Shuster, K. Joseph. "Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset". Published at the [17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS)](https://sbp-brims.org/2024/), September 18-20, 2024.
+* A. Caceres-Wright, N. Udhayasankar, G. Bunn, S. Shuster, K. Joseph. "Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset". Published at the [17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS)](https://sbp-brims.org/2024/), September 18-20, 2024. **Runner Up, Best Student Lead Paper Award**
 * A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". Extended Abstract and poster presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
 
 ## Education
@@ -81,7 +81,8 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 
 ### Academic
 
-* Reviewer, 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation. September 2024.
+* Runner Up, Best Student Lead Paper Award. 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). September 2024.
+* Reviewer, 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). September 2024.
 * Member, Association for Computing Machinery (ACM). January 2023 - Present.
 * Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Program, University of British Columbia. September 2022-Present.
 * Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
