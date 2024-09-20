@@ -29,15 +29,15 @@ github_username:  alexcw-5
 markdown: kramdown
 
 # Build settings
-theme: minima
-remote_theme: pages-themes/midnight@v0.2.0
+theme: midnight
+#remote_theme: pages-themes/midnight@v0.2.0
 minima: 
   skin: dark
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-sitemap
+  # - jekyll-remote-theme
+  # - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
