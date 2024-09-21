@@ -27,6 +27,14 @@ url: "https://www.acacereswright.com" # the base hostname & protocol for your si
 linkedin_username: acacereswright
 github_username:  alexcw-5
 markdown: kramdown
+author:
+  email: "acacereswright@gmail.com"
+  telephone: +1 212-518-4269
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/alexcw-5" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/acacereswright" }
 
 # Build settings
 #theme: minima
