@@ -5,13 +5,13 @@ title: Research
 
 ## Overview
 
-My research lies at the intersection of several fields: Computer Science, Cultural Psychology, and Sociology. I primarly build and apply tools to collect or model human behaviors. For example, I developed a variation of the public goods game and deployed it to collect participant data. More recently, I have been developing tools to apply Large Langauge Models, such as Meta's Llama-2, to perform named-individual identification and stance detection on tweets. Along with this, I am working on ways to identify unique groups of users based on what they tweet, and then identify ways to identify pairs of similar users accross these groups. 
+My research lies at the intersection of several fields: Computer Science, Cultural Psychology, and Sociology. I primarly build and apply tools to collect or model human behaviors. For example, I developed a variation of the public goods game and deployed it to collect participant data. More recently, I have been developing tools to apply Large Langauge Models, such as Meta's Llama-2, to perform named-individual identification and stance detection on tweets. Along with this, I am working on ways to identify unique groups of users based on what they tweet, and then identify ways to identify pairs of similar users accross these groups.  
 
 ## Current Projects
 
 I am currently working on comparing various ways individuals reacted to Bernie Sanders dropping out of the 2020 Democratic Primary (and thus the race for president as a whole). This involves topic modelling, as well as developing tools to identify pairs of similar users across these groups.
 
-Along with this, I have spent some time working on fine tuning large langauge models for classification tasks using unlabelled data.
+Along with this, I am spending time working on fine tuning large langauge models for classification tasks using unlabelled data.
 
 ## Publications
 
@@ -20,4 +20,4 @@ Along with this, I have spent some time working on fine tuning large langauge mo
 
 ## Previous Research Projects
 
-While completing my bachelors degree, I had the opportunity to volunteer as a research assistant in the [Center for Applied Moral Psychology](https://sharifflab.com/) under the supervision of Dr. Azim Shariff and Dr. Joe Green. 
+While completing my bachelors degree, I had the opportunity to volunteer as a research assistant in the [Center for Applied Moral Psychology](https://sharifflab.com/) under the supervision of Dr. Azim Shariff and Dr. Joe Green. In this project, I developed a variation of the public good game using the oTree framework and python. Once built I deployed it to collect data from participants and wrote a report on my findings, which can be [read here](documents/Caceres-Wright_undergrad_capstone.pdf).
