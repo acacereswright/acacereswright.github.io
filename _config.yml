@@ -33,7 +33,7 @@ author:
 
 
 # Build settings
-remote_theme: jekyll/minima@v2.5.2
+remote_theme: jekyll/minima@d7122a0
 minima:  
   skin: auto
   social_links:
