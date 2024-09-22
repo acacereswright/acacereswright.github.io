@@ -25,7 +25,7 @@ For more information about the hackathon please [click here.](https://devpost.co
 
 ### Research Project in Cognitive Systems
 
-As part of my undergraduate coursework I was required to complete a research project. My project was in the areas of moral and privacy psychology, and was focused around how the level of privacy affects a person's altruism. To do so, I coded a variation on the public goods game using python and a framework designed for economic games called oTree. Once my program was developed I then deployed it to Heroku, a web hosting service, and ran several instances of the game to collect data. Once this was done I wrote a report dicsussing previous work in the area, as well as analyzing and discussing the data I had collected.
+As part of my undergraduate coursework I was required to complete a research project, which I conducted in the [Center for Applied Moral Psychology](https://sharifflab.com/) at the University of British Columbia. My project was in the areas of moral and privacy psychology, and was focused around how the level of privacy affects a person's altruism. To do so, I coded a variation on the public goods game using python and a framework designed for economic games called oTree. Once my program was developed I then deployed it to Heroku, a web hosting service, and ran several instances of the game to collect data. Once this was done I wrote a report dicsussing previous work in the area, as well as analyzing and discussing the data I had collected.
 
 If you'd like to view a copy of the final report you can [download it here.](documents/Caceres-Wright_undergrad_capstone.pdf)
 
