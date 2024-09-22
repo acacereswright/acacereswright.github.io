@@ -31,6 +31,11 @@ author:
   email: "acacereswright@gmail.com"
   telephone: +1 (212) 518-4269
 
+header_pages:
+  - index.markdown
+  - projects.markdown
+  - research.md
+  - work.md
 
 # Build settings
 remote_theme: jekyll/minima@d7122a0
