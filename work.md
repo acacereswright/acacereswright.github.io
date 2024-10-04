@@ -3,6 +3,12 @@ layout: page
 title: Work Experience
 ---
 
+<!-- #### Data and Analytics Intern, s-cubed: Strategic Sustanability Solutions. September 2024 - Present
+
+I am directly with the founders of [s-cubed](https://www.scubed-sustainability.com/) to streamline and automate their data analysis pipeline. 
+
+This involves using tools such as python, pandas, and matplotlib, and also involves having strong commmunication skills, not only about the conclusuions drawn from the data but the process I took to get there. -->
+
 #### Graduate Research Assistant, University at Buffalo. June 2023 - Present
 
 I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. The primary focus of my research has been to develop tool for automatic stance detection using Large Language Models. A secondary goal of this project was to create a tool which takes in a large (several million) number of tweets and a small set of keywords and provides a set of similar tweets.
