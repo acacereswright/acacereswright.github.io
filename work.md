@@ -15,7 +15,7 @@ I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buf
 
 Various aspects of our work will appear in the following conferences:
 
-* A paper in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 2024. **Runner Up, Best Student Led Paper**
+* A paper in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 2024. **[Runner Up, Best Student Lead Paper Award](documents/2024_SBP-BRiMS%20Award.pdf)**
 * An extended abstract and poster at the 10th International Conference on Computational Social Science (IC2S2), July 2024.
 
 #### Member Service Representative, Lockport Family YMCA. September 2023 - May 2024
