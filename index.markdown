@@ -16,7 +16,7 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 
 ## Education
 
-* Master of Science in Computer Science and Enginering from the University at Buffalo (SUNY). June 2024.
+* Master of Science in Computer Science and Engineering from the University at Buffalo (SUNY). June 2024.
 * Bachelor of Arts in Cognitive Systems (Cognition and Brain Stream) with a minor in Psychology from the University of British Columbia. May 2022.
 
 ### Selected Coursework
@@ -27,7 +27,7 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 |CSE 531: Analysis of Algorithms|CPSC 221: Basic Algorithms and Data Structures|
 |CSE 560: Data Models and Query Languages|CPSC 368: Databases in Data Science|
 |CSE 565: Computer Security|CPSC 322: Introduction to Artificial Intelligence|
-|CSE 567: Computational Lingustics|CPSC 330: Applied Machine Learning|
+|CSE 567: Computational Linguistics|CPSC 330: Applied Machine Learning|
 |CSE 587: Computational Investment|CPSC 312: Functional and Logical Programming|
 |CSE 589: Modern Network Concepts|COGS 300: Understanding and Designing Cognitive Systems|
 |CSE 709: Selected Topics on Biometrics and User Identification|PSYC 336: Psychology of Language|
@@ -64,17 +64,17 @@ Feel free to browse my website or [download my resume here](documents/Alex_Cacer
 
 ### Currently in Progress
 
-* Applied Python Data Engineering Specilization. Duke University via Coursera.
+* Applied Python Data Engineering Specialization. Duke University via Coursera.
   * Learning how to work with data pipelines, how to gain insights from data, as well as leverage machine learning models to analyze data  
-* Applied Data Science with Python Specalization. University of Michigan via Coursera.
+* Applied Data Science with Python Specialization. University of Michigan via Coursera.
   * Learning and practicing skills such as data manipulation, querying, and visualizations, as well as text mining and social media analytics
-* Mathematics for Machine Learning Specalization. Imperial College London via Coursera.
-  * Covering three important mathmatical areas for Machine Learning: Linear Alebra, Multivariate Calculus, and Principal Component Analysis (PCA)
+* Mathematics for Machine Learning Specialization. Imperial College London via Coursera.
+  * Covering three important mathematical areas for Machine Learning: Linear Algebra, Multivariate Calculus, and Principal Component Analysis (PCA)
 
 ### Completed
 
-* Machine Learning Specalization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [View Certificate](documents/certificates/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
-  * Learned about both supervised and unsupervised machine learning techniques such as linear and logisitic regression, decision trees, neural networks, clustering systems and reinforcement learning techniques
+* Machine Learning Specialization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [View Certificate](documents/certificates/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
+  * Learned about both supervised and unsupervised machine learning techniques such as linear and logistic regression, decision trees, neural networks, clustering systems and reinforcement learning techniques
   * Implemented several algorithms in python using tensorflow
 
 ## Awards and Involvements
