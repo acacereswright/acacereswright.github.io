@@ -3,13 +3,15 @@ layout: page
 title: Work Experience
 ---
 
-#### Data and Analytics Intern, s-cubed: Strategic Sustainability Solutions. September 2024 - Present
+#### Data and Analytics Intern, S-cubed: Strategic Sustainability Solutions. September 2024 - Present
 
-I am interning at [s-cubed](https://www.scubed-sustainability.com/), where I am analyzing financial and environmental to identify sustainable and profitable business practices. My work is done primarily in python using software packages such as pandas and matplotlib.
+I am interning at [S-cubed: Strategic Sustainability Solutions](https://www.scubed-sustainability.com/), where I am analyzing financial and environmental to identify sustainable and profitable business practices. My work is done primarily in python using software packages such as pandas and matplotlib.
 
 #### Graduate Research Assistant, University at Buffalo. June 2023 - Present
 
-I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. The primary focus of my research has been to develop tool for automatic stance detection using Large Language Models. A secondary goal of this project was to create a tool which takes in a large (several million) number of tweets and a small set of keywords and provides a set of similar tweets.
+I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. Currently, I am researching prominence and discussions of conspiracy theories during the 2020 US election and attempting to relate emergence and discussions to certain events that occurred.
+
+Previously, I developed tools for automatic stance detection using Large Language Models. A secondary goal of this project was to create a tool which takes in a large (several million) number of tweets and a small set of keywords and provides a set of similar tweets.
 
 Various aspects of our work will appear in the following conferences:
 
