@@ -9,7 +9,7 @@ I am interning at [S-cubed: Strategic Sustainability Solutions](https://www.scub
 
 #### Graduate Research Assistant, University at Buffalo. June 2023 - Present
 
-I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. Currently, I am researching prominence and discussions of conspiracy theories during the 2020 US election and attempting to relate emergence and discussions to certain events that occurred.
+I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. Currently, I am currently working on comparing various ways individuals reacted to Bernie Sanders dropping out of the 2020 Democratic Primary (and thus the race for president as a whole). Along with this, I am investigating the emergence, engagement with, and discussions of conspiracy theories online.
 
 Previously, I developed tools for automatic stance detection using Large Language Models. A secondary goal of this project was to create a tool which takes in a large (several million) number of tweets and a small set of keywords and provides a set of similar tweets.
 

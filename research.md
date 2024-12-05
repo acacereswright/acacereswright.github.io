@@ -9,9 +9,7 @@ My research mainly lies in the applied machine learning and natural language pro
 
 ## Current Projects
 
-I am currently working on comparing various ways individuals reacted to Bernie Sanders dropping out of the 2020 Democratic Primary (and thus the race for president as a whole). This involves topic modelling, as well as developing tools to identify pairs of similar users across these groups.
-
-Along with this, I am spending time working on fine tuning large language models for classification tasks using unlabelled data.
+I am currently working on comparing various ways individuals reacted to Bernie Sanders dropping out of the 2020 Democratic Primary (and thus the race for president as a whole). This involves topic modelling, as well as developing tools to identify pairs of similar users across these groups. Along with this, I am investigating the emergence, engagement with, and discussions of conspiracy theories online.
 
 ## Publications
 
