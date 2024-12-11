@@ -14,7 +14,10 @@ I am currently working on comparing various ways individuals reacted to Bernie S
 ## Publications
 
 * A. Caceres-Wright, N. Udhayasankar, G. Bunn, S. Shuster, K. Joseph. ["Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset"](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_1). Published at the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 18-20, 2024. **[Runner Up, Best Student Lead Paper Award](documents/2024_SBP-BRiMS%20Award.pdf)**
-* A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". Extended Abstract and [poster](documents/Ic2s2_Poster.pdf) presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
+
+## Posters
+
+* A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". [Poster](documents/Ic2s2_Poster.pdf) presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
 
 ## Previous Research Projects
 
