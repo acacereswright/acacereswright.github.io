@@ -36,3 +36,7 @@ As part of a course in operating systems, I developed multiple parts of the [Pin
 ### Lossy Image Compression
 
 This was a project completed in my undergraduate coursework designed to algorithmically change images by partitioning images in such a way that the color variability within each partition is minimal while maintaining color distinction across partitions. To do so each pixel must be looked in within a variety of partitions before the program decided the optimal partition and returned the altered image.
+
+### Book Management System
+
+I wrote a basic book inventory and management system for my software construction course. This project was written in Java and allowed users to input information on books such as title, author, and number of pages. Along with this, users were able to enter information such as if the had lent the book to a friend and track how long it had been lent out. It also gave users the ability to save and load their information across multiple sessions. Additionally, I developed a simple graphical user interface(GUI) using the JavaFx library.  
