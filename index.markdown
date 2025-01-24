@@ -5,7 +5,9 @@ title: About
 
 ![Alex Headshot](img/sunset_profile.JPG)
 
-Hello! My name is Alex Caceres-Wright. I am currently on the job market, and am primarily interested in Data Science, Natural Language Processing, and Applied Machine Learning. However, I am open to any role in the software engineering and data science space, including research. Along with this I am fluent in both English and Spanish.
+Hello! My name is Alex Caceres-Wright. I am a data and analytics intern at S-Cubed: Strategic Sustainability Solutions, along with a part time research assistant at the Computation and Equity (cUBe) Lab, located at the University at Buffalo.
+
+I am currently on the job market for permanent full time roles, and am primarily interested in Data Science, Natural Language Processing, and Applied Machine Learning. However, I am open to any role in the software engineering and data science space, including research. Along with this I am fluent in both English and Spanish.
 
 Feel free to browse my website or [view my resume here](documents/Alex_Caceres-Wright_Resume.pdf).
 

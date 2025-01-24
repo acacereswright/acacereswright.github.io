@@ -5,7 +5,9 @@ title: Work Experience
 
 #### Data and Analytics Intern, S-cubed: Strategic Sustainability Solutions. September 2024 - Present
 
-I am interning at [S-cubed: Strategic Sustainability Solutions](https://www.scubed-sustainability.com/), where I am analyzing financial and environmental to identify sustainable and profitable business practices. My work is done primarily in python using software packages such as pandas and matplotlib.
+I am interning at [S-cubed: Strategic Sustainability Solutions](https://www.scubed-sustainability.com/), where I am analyzing financial and environmental to identify sustainable and profitable business practices. This work is done primarily in python using software packages such as pandas and matplotlib.
+
+Along with this, I am also assisting the company in the development of AI agents to aid in company operations and data processing.
 
 #### Graduate Research Assistant, University at Buffalo. June 2023 - Present
 
