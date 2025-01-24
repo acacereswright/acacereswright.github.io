@@ -11,6 +11,8 @@ My research mainly lies in the applied machine learning and computational social
 
 I am currently working on comparing various ways individuals reacted to Bernie Sanders dropping out of the 2020 Democratic Primary (and thus the race for president as a whole). This involves topic modelling, as well as developing tools to identify pairs of similar users across these groups. Along with this, I am investigating the emergence, engagement with, and discussions of conspiracy theories online.
 
+A second project I am working on is expressions of cultural identity on social media, and how users from different regions express their cultural identity.
+
 ## Publications
 
 * A. Caceres-Wright, N. Udhayasankar, G. Bunn, S. Shuster, K. Joseph. ["Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset"](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_1). Published at the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 18-20, 2024. **[Runner Up, Best Student Lead Paper Award](documents/2024_SBP-BRiMS%20Award.pdf)**
