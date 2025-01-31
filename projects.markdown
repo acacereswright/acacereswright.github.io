@@ -27,11 +27,19 @@ For more information about the hackathon please [click here.](https://devpost.co
 
 As part of my undergraduate coursework I was required to complete a research project, which I conducted in the [Center for Applied Moral Psychology](https://sharifflab.com/) at the University of British Columbia. My project was in the areas of moral and privacy psychology, and was focused around how the level of privacy affects a person's altruism. To do so, I coded a variation on the public goods game using python and a framework designed for economic games called oTree. Once my program was developed I then deployed it to Heroku, a web hosting service, and ran several instances of the game to collect data. Once this was done I wrote a report discussing previous work in the area, as well as analyzing and discussing the data I had collected.
 
-If you'd like to view a copy of the final report you can [download it here.](documents/Caceres-Wright_undergrad_capstone.pdf)
+If you'd like to view a copy of the final report you can [view it here.](documents/Caceres-Wright_undergrad_capstone.pdf)
 
 ### Pintos: Simple Operating Systems
 
 As part of a course in operating systems, I developed multiple parts of the [Pintos Operating System](https://web.stanford.edu/class/cs140/projects/pintos/pintos_1.html). Main areas of focus included Scheduling Algorithms, User Argument Parsing, system calls, as well as some basic memory management.
+
+### Text Chat Application
+
+As part of my networking course, I had to develop a simple text chat application involving implementing several important network functions on both the server and client side over TCP connections. Important functions included IP address identification, viewing a list of logged in clients, and blocking and unblocking other clients. Along with this, it supported message passing between clients, and messages to logged out clients would be stored and delivered upon next login.
+
+### Internet Packet Transmission Protocol Simulator
+
+As part of my networking course, I had to implement several different packet transmission protocol protocols such as selective repeat and go-back-n protocol. This project involved ensuring accuracy in delivering packets, both in terms of order and contents. This involved having a deep understanding of the relevant network protocols as well as how to utilize checksums. 
 
 ### Lossy Image Compression
 
