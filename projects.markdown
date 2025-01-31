@@ -35,11 +35,11 @@ As part of a course in operating systems, I developed multiple parts of the [Pin
 
 ### Text Chat Application
 
-As part of my networking course, I had to develop a simple text chat application involving implementing several important network functions on both the server and client side over TCP connections. Important functions included IP address identification, viewing a list of logged in clients, and blocking and unblocking other clients. Along with this, it supported message passing between clients, and messages to logged out clients would be stored and delivered upon next login.
+As part of my networking course, I had to develop a simple text chat application involving implementing several important network functions on both the server and client side over TCP connections. Important functions included IP address identification, viewing a list of logged in clients, and blocking and unblocking other clients. Along with this, it supported sending and receiving between clients, and messages to logged out clients would be stored and delivered upon next login.
 
 ### Internet Packet Transmission Protocol Simulator
 
-As part of my networking course, I had to implement several different packet transmission protocol protocols such as selective repeat and go-back-n protocol. This project involved ensuring accuracy in delivering packets, both in terms of order and contents. This involved having a deep understanding of the relevant network protocols as well as how to utilize checksums. 
+As part of my networking course, I had to implement several different packet transmission protocol protocols such as selective repeat and go-back-n protocol. This project involved ensuring accuracy in delivering packets, both in terms of order and contents. This involved having a deep understanding of the relevant network protocols as well as how to utilize checksums. Once implemented, I analyzed performance via tests and summarized my findings via a report.
 
 ### Lossy Image Compression
 
