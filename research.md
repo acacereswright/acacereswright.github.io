@@ -21,6 +21,11 @@ A second project I am working on is expressions of cultural identity on social m
 
 * A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". [Poster](documents/Ic2s2_Poster.pdf) presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
 
+## Academic Service
+  
+* Reviewer, 2025 International Conference on Computational Social Science (IC2S2)
+* Reviewer, 2024 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS)
+
 ## Previous Research Projects
 
 While completing my bachelors degree, I had the opportunity to volunteer as a research assistant in the [Center for Applied Moral Psychology](https://sharifflab.com/) under the supervision of Dr. Azim Shariff and Dr. Joe Green. In this project, I developed a variation of the public good game using the oTree framework and python. Once built I deployed it to collect data from participants and wrote a report on my findings, which can be [read here](documents/Caceres-Wright_undergrad_capstone.pdf).

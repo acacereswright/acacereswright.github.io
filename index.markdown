@@ -9,7 +9,7 @@ Hello! My name is Alex Caceres-Wright. I am a data and analytics intern at S-Cub
 
 I am currently on the job market for permanent full time roles, and am primarily interested in Data Science, Natural Language Processing, and Applied Machine Learning. However, I am open to any role in the software engineering and data science space, including research. Along with this I am fluent in both English and Spanish.
 
-Feel free to browse my website or [view my resume here](documents/Alex_Caceres-Wright_Resume.pdf).
+Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright_Resume.pdf).
 
 **Featured Work**
 
@@ -83,6 +83,7 @@ Feel free to browse my website or [view my resume here](documents/Alex_Caceres-W
 
 ### Academic
 
+* Reviewer, 11th International Conference on Computational Social Science (IC2S2), July 2025. 
 * [Runner-Up, Best Student-Led Paper Award](documents/2024_SBP-BRiMS%20Award.pdf). 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). September 2024.
 * Reviewer, 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). September 2024.
 * Member, Association for Computing Machinery (ACM). January 2023 - Present.
