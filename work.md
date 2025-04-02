@@ -9,11 +9,11 @@ I am working at [s-cubed: Strategic Sustainability Solutions](https://www.scubed
 
 My key contributions include:
 
-1. Created a comprehensive dataset of 1.4+ million companies, including quality controls
+1. Created dataset of 1.4+ million companies financial, including quality controls
 2. Developed matching algorithms to integrate multiple data sources, including emissions data
-3. Established critical financial metrics and ratios for resilience analysis
+3. Established financial metrics and ratios for resilience analysis
 4. Built models to assess companies' capacity to absorb externality costs
-5.  Documented analytical processes and presented findings to executive leadership
+5. Documented analytical processes and presented findings to the company executive leadership
 
 While I was initially contracted for three months, I was invited to extend my contract based on demonstrated success and valuable contributions.
 
