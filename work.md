@@ -3,11 +3,19 @@ layout: page
 title: Work Experience
 ---
 
-#### Data and Analytics Intern, S-cubed: Strategic Sustainability Solutions. September 2024 - Present
+#### Data Analyst (Intern), s-cubed: Strategic Sustainability Solutions. September 2024 - Present
 
-I am interning at [S-cubed: Strategic Sustainability Solutions](https://www.scubed-sustainability.com/), where I am analyzing financial and environmental to identify sustainable and profitable business practices. This work is done primarily in python using software packages such as pandas and matplotlib.
+I am working at [s-cubed: Strategic Sustainability Solutions](https://www.scubed-sustainability.com/), an early stage start up. I led data science initiatives focused on quantifying corporate financial resilience to sustainability risks. I am working directly with C-Suite executives (former Moody's managing directors) to develop innovative methodologies that impacted both analytics and product development.
 
-Along with this, I am also assisting the company in the development of AI agents to aid in company operations and data processing.
+My key contributions include:
+
+1) Created a comprehensive dataset of 1.4+ million companies, including quality controls
+2) Developed matching algorithms to integrate multiple data sources, including emissions data
+3) Established critical financial metrics and ratios for resilience analysis
+4) Built models to assess companies' capacity to absorb externality costs
+5) Documented analytical processes and presented findings to executive leadership
+
+While I was initially contracted for three months, I was invited to extend my contract based on demonstrated success and valuable contributions.
 
 #### Graduate Research Assistant, University at Buffalo. June 2023 - Present
 

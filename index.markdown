@@ -83,9 +83,9 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 
 ### Academic
 
-* Reviewer, 11th International Conference on Computational Social Science (IC2S2), July 2025. 
+* Reviewer, 11th International Conference on Computational Social Science (IC2S2), 2025.
 * [Runner-Up, Best Student-Led Paper Award](documents/2024_SBP-BRiMS%20Award.pdf). 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). September 2024.
-* Reviewer, 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). September 2024.
+* Reviewer, 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), 2024.
 * Member, Association for Computing Machinery (ACM). January 2023 - Present.
 * Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Program, University of British Columbia. September 2022-Present.
 * Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
