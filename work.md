@@ -5,7 +5,7 @@ title: Work Experience
 
 #### Data Analyst (Intern), s-cubed: Strategic Sustainability Solutions. September 2024 - Present
 
-I am working at [s-cubed: Strategic Sustainability Solutions](https://www.scubed-sustainability.com/), an early stage start up. I led data science initiatives focused on quantifying corporate financial resilience to sustainability risks. I am working directly with C-Suite executives (former Moody's managing directors) to develop innovative methodologies that impacted both analytics and product development.
+I am working at [s-cubed: Strategic Sustainability Solutions](https://www.scubed-sustainability.com/), an early stage start up. I am leading data science initiatives focused on quantifying corporate financial resilience to sustainability risks. I am working directly with C-Suite executives (former Moody's managing directors) to develop innovative methodologies that impacted both analytics and product development.
 
 My key contributions include:
 
