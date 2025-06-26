@@ -5,7 +5,7 @@ title: Research
 
 ## Overview
 
-My research mainly lies in the applied machine learning and computational social science domains. I primarily build and apply tools to collect data on or model human behaviors. For example, I developed a variation of the public goods game and deployed it to collect participant data. More recently, I have been developing tools to apply Large Language Models, such as Meta's Llama-2, to perform named-individual identification and stance detection on tweets. Along with this, I am working on ways to identify unique groups of users based on what they tweet, and then identify ways to identify pairs of similar users across these groups.  
+My research mainly lies in the computational social science and natural language processing domains. I primarily build and apply tools to collect data on or model human behaviors. For example, I developed a variation of the public goods game and deployed it to collect participant data. More recently, I have been developing tools to apply Large Language Models, such as Meta's Llama-2, to perform named-individual identification and stance detection on tweets. Along with this, I am working on ways to identify unique groups of users based on what they tweet, and then identify ways to identify pairs of similar users across these groups.  
 
 ## Current Projects
 

@@ -3,9 +3,20 @@ layout: page
 title: Work Experience
 ---
 
-#### Data Analyst (Intern), s-cubed: Strategic Sustainability Solutions. September 2024 - Present
+#### Graduate Research Assistant, University at Buffalo. June 2023 - Present
 
-I am working at [s-cubed: Strategic Sustainability Solutions](https://www.scubed-sustainability.com/), an early stage start up. I am leading data science initiatives focused on quantifying corporate financial resilience to sustainability risks. I am working directly with C-Suite executives (former Moody's managing directors) to develop innovative methodologies that impacted both analytics and product development.
+I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. Currently, I am currently working on comparing various ways individuals reacted to Bernie Sanders dropping out of the 2020 Democratic Primary (and thus the race for president as a whole). Along with this, I am investigating how people present themselves online, and how this varies across both geographic location and language. From a more technical perspective this involves working how we can extract meaningful and relevant dimensions from text, and how large language models can aid this extraction.
+
+Previously, I developed tools for automatic stance detection using Large Language Models. A secondary goal of this project was to create a tool which takes in a large (several million) number of tweets and a small set of keywords and provides a set of similar tweets.
+
+Various aspects of my work has appeared in the following conferences:
+
+* A paper published in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 2024. **[Runner Up, Best Student Lead Paper Award](documents/2024_SBP-BRiMS%20Award.pdf)**
+* A [poster](documents/Ic2s2_Poster.pdf) at the 10th International Conference on Computational Social Science (IC2S2), July 2024.
+
+#### Data Analyst (Intern), s-cubed: Strategic Sustainability Solutions. September 2024 - June 2025
+
+I worked at [s-cubed: Strategic Sustainability Solutions](https://www.scubed-sustainability.com/), an early stage start up. While there, I led data science initiatives focused on quantifying corporate financial resilience to sustainability risks, which was a critical part of the company's initial product launch. I worked directly with C-Suite executives (former Moody's managing directors) to develop innovative methodologies that impacted both analytics and product development.
 
 My key contributions include:
 
@@ -16,17 +27,6 @@ My key contributions include:
 5. Documented analytical processes and presented findings to the company executive leadership
 
 While I was initially contracted for three months, I was invited to extend my contract based on demonstrated success and valuable contributions.
-
-#### Graduate Research Assistant, University at Buffalo. June 2023 - Present
-
-I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. Currently, I am currently working on comparing various ways individuals reacted to Bernie Sanders dropping out of the 2020 Democratic Primary (and thus the race for president as a whole). Along with this, I am investigating the emergence, engagement with, and discussions of conspiracy theories online.
-
-Previously, I developed tools for automatic stance detection using Large Language Models. A secondary goal of this project was to create a tool which takes in a large (several million) number of tweets and a small set of keywords and provides a set of similar tweets.
-
-Various aspects of my work has appeared in the following conferences:
-
-* A paper published in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 2024. **[Runner Up, Best Student Lead Paper Award](documents/2024_SBP-BRiMS%20Award.pdf)**
-* A [poster](documents/Ic2s2_Poster.pdf) at the 10th International Conference on Computational Social Science (IC2S2), July 2024.
 
 #### Member Service Representative, Lockport Family YMCA. September 2023 - May 2024
 
