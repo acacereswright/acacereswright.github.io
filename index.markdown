@@ -86,6 +86,7 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 
 ### Academic
 
+* Reviewer, 18th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), 2025.
 * Reviewer, 11th International Conference on Computational Social Science (IC2S2), 2025.
 * [Runner-Up, Best Student-Led Paper Award](documents/2024_SBP-BRiMS%20Award.pdf). 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). September 2024.
 * Reviewer, 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), 2024.

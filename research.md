@@ -23,6 +23,7 @@ A second project I am working on is expressions of cultural identity on social m
 
 ## Academic Service
   
+* Reviewer, 2025 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS)
 * Reviewer, 2025 International Conference on Computational Social Science (IC2S2)
 * Reviewer, 2024 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS)
 
