@@ -3,9 +3,13 @@ layout: page
 title: Work Experience
 ---
 
+#### Teaching Assistant, University at Buffalo. August 2025 - Present
+
+I am working as a teaching assistant in the Department of Computer Science and Engineering, specifically for CSE 421/521: Operating Systems. My duties including holding weekly office hours, grading exams and assignments, and helping students through two projects designed to teach some operating system fundamentals.
+
 #### Graduate Research Assistant, University at Buffalo. June 2023 - Present
 
-I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. Currently, I am currently working on comparing various ways individuals reacted to Bernie Sanders dropping out of the 2020 Democratic Primary (and thus the race for president as a whole). Along with this, I am investigating how people present themselves online, and how this varies across both geographic location and language. From a more technical perspective this involves working how we can extract meaningful and relevant dimensions from text, and how large language models can aid this extraction.
+I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. Currently, I am investigating how people present themselves online, and how this varies across both geographic location and language. From a more technical perspective this involves working how we can extract meaningful and relevant dimensions from text, and how large language models can aid this extraction.
 
 Previously, I developed tools for automatic stance detection using Large Language Models. A secondary goal of this project was to create a tool which takes in a large (several million) number of tweets and a small set of keywords and provides a set of similar tweets.
 

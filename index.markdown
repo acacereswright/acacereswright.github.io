@@ -11,7 +11,7 @@ Previously, I spent 10 months working as a data analyst (intern) at S-Cubed: Str
 
 I am currently on the job market for internships, and am primarily interested in Data Science, Natural Language Processing, and Applied Machine Learning. However, I am open to any role in the software engineering and data science space, including research. Along with this I am fluent in both English and Spanish.
 
-Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright_Resume.pdf).
+Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright_Resume.pdf). I also have a more detailed [CV](documents/Alex_Caceres-Wright_CV.pdf).
 
 **Featured Work**
 
