@@ -13,10 +13,15 @@ I am currently on the job market for internships, and am primarily interested in
 
 Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright_Resume.pdf) or a more detailed [CV](documents/Alex_Caceres-Wright_CV.pdf).
 
-**Featured Work**
+### Featured Work
 
 * A. Caceres-Wright, N. Udhayasankar, G. Bunn, S. Shuster, K. Joseph. ["Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset"](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_1). Published at the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 18-20, 2024. **[Runner Up, Best Student-Led Paper Award](documents/2024_SBP-BRiMS%20Award.pdf)**
 * A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". [Poster](documents/Ic2s2_Poster.pdf) presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
+
+### News
+
+* **August 22, 2025:** Officially started my PhD program
+* **September 20, 2024:** Received the Runner-Up Best Student-Led Paper Award at SBP-BRiMS
 
 ## Education
 
@@ -35,6 +40,7 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 |CSE 567: Computational Linguistics|CPSC 330: Applied Machine Learning|
 |CSE 587: Computational Investment|CPSC 312: Functional and Logical Programming|
 |CSE 589: Modern Network Concepts|COGS 300: Understanding and Designing Cognitive Systems|
+|CSE 667: Advanced Topics in Computational Linguistics|COGS 402: Research in Cognitive Systems|
 |CSE 709: Selected Topics on Biometrics and User Identification|PSYC 336: Psychology of Language|
 
 ## Technical Skills and Tools
@@ -91,7 +97,7 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 * [Runner-Up, Best Student-Led Paper Award](documents/2024_SBP-BRiMS%20Award.pdf). 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS). September 2024.
 * Reviewer, 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), 2024.
 * Member, Association for Computing Machinery (ACM). January 2023 - Present.
-* Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Program, University of British Columbia. September 2022-Present.
+* Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Program, University of British Columbia. September 2022-May 2024.
 * Summer School on Foundations of Data Science. Bryn Mawr College, June 27-28, 2023.
 * Bloomberg Accelerator Summer School. Virtual, June 2023.
 * First Place Prize, M&T Bank's An Innovative Way to Promote Financial Understanding. UBHacking: Fall 2022 (Hackathon). November 5-6, 2022.
