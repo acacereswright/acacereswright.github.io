@@ -16,8 +16,8 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 ## News
 
 * **August 22, 2025:** Officially started my PhD program
-* **September 15, 2024:** Accepted a position at s-cubed: Strategic Sustainability Solutions
 * **September 20, 2024:** Received the Runner-Up Best Student-Led Paper Award at SBP-BRiMS
+* **September 15, 2024:** Accepted a position at s-cubed: Strategic Sustainability Solutions
 * **June 1, 2024:** Received my Master's Degree from the University at Buffalo
 
 ## Featured Work
