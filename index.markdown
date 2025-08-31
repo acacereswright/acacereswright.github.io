@@ -5,11 +5,11 @@ title: About
 
 ![Alex Headshot](img/sunset_profile.JPG)
 
-Hello! My name is Alex Caceres-Wright. I am a PhD student at the University at Buffalo, under the supervision of Dr. Kenneth Joseph in the computation and equity (cUBe) Lab.
+Hello! My name is Alex Caceres-Wright. I am a PhD student at the University at Buffalo, under the supervision of Dr. Kenneth Joseph in the Computation and Equity (cUBe) Lab.
 
-Previously, I spent 10 months working as a data analyst (intern) at S-Cubed: Strategic Sustainability Solutions, along with a part time research assistant at the Computation and Equity (cUBe) Lab, located at the University at Buffalo.
+Previously, I spent 10 months working as a data analyst (intern) at s-cubed: Strategic Sustainability Solutions. While there, I was fortunate enough to continue my research as a part of the Computation and Equity (cUBe) lab, where I am currently doing my PhD.
 
-I am currently on the job market for internships, and am primarily interested in Data Science, Natural Language Processing, and Applied Machine Learning. However, I am open to any role in the software engineering and data science space, including research. Along with this I am fluent in both English and Spanish.
+I am actively seeking summer internships, and am primarily interested in Data Science, Natural Language Processing, and Applied Machine Learning. However, I am open to any role in the software engineering and data science space, including research. Along with this I am fluent in both English and Spanish.
 
 Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright_Resume.pdf) or a more detailed [CV](documents/Alex_Caceres-Wright_CV.pdf).
 
