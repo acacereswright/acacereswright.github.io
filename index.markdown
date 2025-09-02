@@ -3,7 +3,7 @@ layout: home
 title: About Me
 ---
 
-{:.center}![Alex Headshot](img/sunset_profile.JPG)
+![Alex Headshot](img/sunset_profile.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Hello! My name is Alex Caceres-Wright. I am a PhD student in Computer Science and Engineering at the University at Buffalo, under the supervision of Dr. Kenneth Joseph in the Computation and Equity (cUBe) Lab.
 
