@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About
+title: About Me
 ---
 
 ![Alex Headshot](img/sunset_profile.JPG)
@@ -15,7 +15,7 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 
 ## News
 
-* **August 22, 2025:** Officially started my PhD program
+* **August 22, 2025:** Officially started my PhD program at the University at Buffalo
 * **September 20, 2024:** Received the Runner-Up Best Student-Led Paper Award at SBP-BRiMS
 * **September 15, 2024:** Accepted a position at s-cubed: Strategic Sustainability Solutions
 * **June 1, 2024:** Received my Master's Degree from the University at Buffalo
@@ -77,8 +77,6 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 
 ### Currently in Progress
 
-* Applied Python Data Engineering Specialization. Duke University via Coursera.
-  * Learning how to work with data pipelines, how to gain insights from data, as well as leverage machine learning models to analyze data  
 * Applied Data Science with Python Specialization. University of Michigan via Coursera.
   * Learning and practicing skills such as data manipulation, querying, and visualizations, as well as text mining and social media analytics
 * Mathematics for Machine Learning Specialization. Imperial College London via Coursera.
