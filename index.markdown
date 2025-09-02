@@ -3,9 +3,9 @@ layout: home
 title: About Me
 ---
 
-![Alex Headshot](img/sunset_profile.JPG)
+{:.center}![Alex Headshot](img/sunset_profile.JPG)
 
-Hello! My name is Alex Caceres-Wright. I am a PhD student at the University at Buffalo, under the supervision of Dr. Kenneth Joseph in the Computation and Equity (cUBe) Lab.
+Hello! My name is Alex Caceres-Wright. I am a PhD student in Computer Science and Engineering at the University at Buffalo, under the supervision of Dr. Kenneth Joseph in the Computation and Equity (cUBe) Lab.
 
 Previously, I spent 10 months working as a data analyst (intern) at s-cubed: Strategic Sustainability Solutions. While there, I was fortunate enough to continue my research as a part of the Computation and Equity (cUBe) lab, where I am currently doing my PhD.
 
@@ -15,7 +15,7 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 
 ## News
 
-* **August 25, 2025:** Officially started my PhD in Computer Science and Engineering at the University at Buffalo
+* **August 25, 2025:** Started my PhD at the University at Buffalo
 * **September 20, 2024:** Received the Runner-Up Best Student-Led Paper Award at SBP-BRiMS
 * **September 15, 2024:** Accepted a position at s-cubed: Strategic Sustainability Solutions
 * **June 1, 2024:** Received my Master's Degree from the University at Buffalo
