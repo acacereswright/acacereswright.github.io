@@ -24,7 +24,7 @@ I worked at [s-cubed: Strategic Sustainability Solutions](https://www.scubed-sus
 
 My key contributions include:
 
-1. Created dataset of 1.4+ million companies financial data from over 120 different countries, implemented quality controls on this data
+1. Created a dataset of 1.4+ million companies financial data from over 120 different countries, and implemented quality controls on this data
 2. Developed matching algorithms to integrate multiple data sources, including emissions and other environmental data
 3. Established financial metrics and ratios for analyzing a company's resilience
 4. Built models to assess companies' capacity to absorb the cost of external shocks
