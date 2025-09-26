@@ -26,6 +26,11 @@
           </ul>
         {%- endif %}
 
+    <div class="social-links">
+          {%- include social.html -%}
+    </div>
+
+
         <!-- 🔽 Per-page last modified date -->
         <p class="last-modified">
           Last modified: {{ page.last_modified_at | date: "%B %d, %Y" }}
@@ -35,10 +40,6 @@
         <p>{{ site.description | escape }}</p>
       </div>
     </div> -->
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
 
   </div>
 </footer>
