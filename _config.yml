@@ -39,10 +39,16 @@ minima:
 #Google Analytics ID
 google_analytics: G-E2PWEK106H
 
+# Last modified at plugin settings
+last-modified-at:
+  git: true
+  date_format: "%B %d, %Y"
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 # Exclude from processing.
 # The following items will not be processed, by default.

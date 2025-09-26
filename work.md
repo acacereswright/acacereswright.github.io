@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Work Experience
+last_modified_at: 09-26-2025
 ---
 
 #### Teaching Assistant, University at Buffalo. August 2025 - Present
