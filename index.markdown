@@ -1,7 +1,6 @@
 ---
 layout: home
-title: About Me
-last_modified_at: 09-26-2025
+title: About Me 
 ---
 
 ![Alex Headshot](img/sunset_profile.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
