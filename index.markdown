@@ -27,7 +27,7 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 
 ## Education
 
-* Doctor of Philosophy in Computer Science and Engineering from the University at Buffalo. *Expected December 2028*
+* Doctor of Philosophy in Computer Science and Engineering from the University at Buffalo. *Expected June 2028*
 * Master of Science in Computer Science and Engineering from the University at Buffalo (SUNY). June 2024.
 * Bachelor of Arts in Cognitive Systems (Cognition and Brain Stream) with a minor in Psychology from the University of British Columbia. May 2022.
 
