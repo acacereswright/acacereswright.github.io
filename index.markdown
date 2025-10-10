@@ -1,7 +1,8 @@
 ---
 layout: home
-title: About Me
 ---
+
+# About Me
 
 ![Alex Headshot](img/sunset_profile.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
 
