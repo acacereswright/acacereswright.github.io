@@ -5,13 +5,13 @@ title: Research
 
 ## Overview
 
-My research mainly lies in the computational social science and natural language processing domains. I primarily build and apply tools to collect data on or model human behaviors. For example, I developed a variation of the public goods game and deployed it to collect participant data. More recently, I have been developing tools to apply Large Language Models, such as Meta's Llama-2, to perform named-individual identification and stance detection on tweets. Along with this, I am working on ways to identify unique groups of users based on what they tweet, and then identify ways to identify pairs of similar users across these groups.  
+My research mainly lies in the computational social science, natural language processing, and culturally competent large language models domains. I primarily build and apply tools to study identity, culture, and expression. While pursuing my bachelor's degree, I developed a variation of the public goods game and deployed it to collect participant data. More recently, I developed tools to apply Large Language Models, such as Meta's Llama-2, to perform named-individual identification and stance detection on tweets. Currently, I am investigating ways to dynamically extract dimensions of cultures from a given corpus of social media data, and then place an individual within the cultures we have identified. A second part of this investigation is looking into how well LLMs can model these cultures, and respond as if it is a member of that culture.
 
 ## Current Projects
 
-I am currently working on comparing various ways individuals reacted to Bernie Sanders dropping out of the 2020 Democratic Primary (and thus the race for president as a whole). This involves topic modelling, as well as developing tools to identify pairs of similar users across these groups. Along with this, I am investigating the emergence, engagement with, and discussions of conspiracy theories online.
+My main focus is on culturally competent large language models, which is a research area designed to make sure that LLMs are aware, respectful, and adaptable to a number of different cultural contexts. Currently, my research in this area is still in it's initial stages, but this is an important and growing research area which I believe will yield some very interesting and useful results. 
 
-A second project I am working on is expressions of cultural identity on social media, and how users from different regions express their cultural identity.
+A second project I am working on is expressions of cultural identity on social media, and how users from different regions express their cultural identity. 
 
 ## Publications
 
