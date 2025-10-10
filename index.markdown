@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About Me 
+title: About Me
 ---
 
 ![Alex Headshot](img/sunset_profile.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
@@ -25,7 +25,7 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 * A. Caceres-Wright, N. Udhayasankar, G. Bunn, S. Shuster, K. Joseph. ["Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset"](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_1). Published at the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 18-20, 2024. **[Runner Up, Best Student-Led Paper Award](documents/2024_SBP-BRiMS%20Award.pdf)**
 * A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". [Poster](documents/Ic2s2_Poster.pdf) presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
 
-## Education
+<!-- ## Education
 
 * Doctor of Philosophy in Computer Science and Engineering from the University at Buffalo. *Expected June 2028*
 * Master of Science in Computer Science and Engineering from the University at Buffalo (SUNY). June 2024.
@@ -43,7 +43,7 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 |CSE 587: Computational Investment|CPSC 312: Functional and Logical Programming|
 |CSE 589: Modern Network Concepts|COGS 300: Understanding and Designing Cognitive Systems|
 |CSE 667: Advanced Topics in Computational Linguistics|COGS 402: Research in Cognitive Systems|
-|CSE 709: Selected Topics on Biometrics and User Identification|PSYC 336: Psychology of Language|
+|CSE 709: Selected Topics on Biometrics and User Identification|PSYC 336: Psychology of Language| -->
 
 ## Technical Skills and Tools
 
@@ -73,7 +73,7 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 |Flask|Beginner|
 |Spark|Intermediate|
 
-## Further Learning
+<!-- ## Further Learning
 
 ### Currently in Progress
 
@@ -86,7 +86,7 @@ Feel free to browse my website or view my [resume](documents/Alex_Caceres-Wright
 
 * Machine Learning Specialization, Stanford University and DeepLearning.AI via Coursera. Completed August 7, 2024. [View Certificate](documents/certificates/Stamford%20AI:ML%20Specialization%20Certificates.pdf)
   * Learned about both supervised and unsupervised machine learning techniques such as linear and logistic regression, decision trees, neural networks, clustering systems and reinforcement learning techniques
-  * Implemented several algorithms in python using tensorflow
+  * Implemented several algorithms in python using tensorflow -->
 
 ## Awards and Involvements
 
