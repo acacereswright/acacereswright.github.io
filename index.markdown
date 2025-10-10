@@ -1,7 +1,8 @@
 ---
 layout: home
 title: About Me
-nav_include: no
+nav_exclude: true
+
 ---
 
 ![Alex Headshot](img/sunset_profile.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
