@@ -18,9 +18,9 @@ Various aspects of my work has appeared in the following conferences:
 * A paper published in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 2024. **[Runner Up, Best Student Lead Paper Award](documents/2024_SBP-BRiMS%20Award.pdf)**
 * A [poster](documents/Ic2s2_Poster.pdf) at the 10th International Conference on Computational Social Science (IC2S2), July 2024.
 
-#### Data Analyst (Intern), s-cubed: Strategic Sustainability Solutions. September 2024 - June 2025
+#### Data Analyst (Intern), Quanturisk Analytics. September 2024 - June 2025
 
-I worked at [s-cubed: Strategic Sustainability Solutions](https://www.scubed-sustainability.com/), an early stage start up. While there, I led data science initiatives focused on quantifying corporate financial resilience to sustainability risks, which was a critical part of the company's initial product launch. I worked directly with C-Suite executives (former Moody's managing directors) to develop innovative methodologies that impacted both analytics and product development.
+I worked at Quanturisk Analytics (formerly s-cubed: Strategic Sustainability Solutions), an early stage start up. While there, I led data science initiatives focused on quantifying corporate financial resilience to sustainability risks, which was a critical part of the company's initial product launch. I worked directly with C-Suite executives (former Moody's managing directors) to develop innovative methodologies that impacted both analytics and product development.
 
 My key contributions include:
 
