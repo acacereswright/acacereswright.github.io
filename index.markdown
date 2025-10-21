@@ -91,6 +91,7 @@ Feel free to browse my website or [view my resume](documents/Alex_Caceres-Wright
 
 ### Academic
 
+* Mentor, AI for Good Design Challenge, University at Buffalo. October 25-26, 2025.
 * Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Program, University of British Columbia. September 2022-Present.
 * Reviewer, 18th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), 2025.
 * Reviewer, 11th International Conference on Computational Social Science (IC2S2), 2025.
