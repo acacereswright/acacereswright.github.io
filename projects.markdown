@@ -5,7 +5,7 @@ title: Projects
 
 ### Text-to-Speech for Low Resource Languages
 
-As part of my Advanced Computational Linguistics Course, I built a text-to-speech system for 
+As part of my Advanced Computational Linguistics Course, I helped built a text-to-speech system for Amawaka, a low-resource Indigenous language from the Amazon. A large part of this involved using several different frameworks and approaches to see which one produced the best output. Some of the approaches included transfer learning and several different fine tuning approaches. Finally, we wrote a report summarizing our findings and different approaches as an ACL style paper.
 
 ### Simulating Trading Models
 
