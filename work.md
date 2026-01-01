@@ -4,6 +4,12 @@ title: Work Experience
 ---
 
 #### Teaching Assistant, University at Buffalo. August 2025 - Present
+ 
+##### January 2026 - Present
+
+Currently, I am developing and delivering the first ever offering of *Introduction to Computational Expression* alongside its professor. This course is one of the first to be offered in the University at Buffalo's Department of Artificial Intelligence and Society. Along with traditional teaching assistant duties such as holding office hours and grading, I am helping develop infrastructure to scale the course to a larger number of students in future semesters.
+
+##### August 2025 - December 2025
 
 I am working as a teaching assistant in the Department of Computer Science and Engineering, specifically for CSE 421/521: Operating Systems. My duties including holding weekly office hours, grading exams and assignments, and helping students through two projects designed to teach some operating system fundamentals.
 

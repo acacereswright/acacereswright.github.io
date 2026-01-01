@@ -3,6 +3,10 @@ layout: page
 title: Projects
 ---
 
+### Text-to-Speech for Low Resource Languages
+
+As part of my Advanced Computational Linguistics Course, I built a text-to-speech system for 
+
 ### Simulating Trading Models
 
 As part of my Computational Investment course, I worked to develop a simple trading model and test it in various ways. A secondary goal of this project was to test out different backtesting libraries. This was a group project with contributions from individuals with both economics and computer science backgrounds emphasizing both interdisciplinary communication as well as developing an understanding of both programming and economic concepts.
