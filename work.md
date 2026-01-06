@@ -11,7 +11,7 @@ Currently, I am developing and delivering the first ever offering of *Introducti
 
 ##### August 2025 - December 2025
 
-I am working as a teaching assistant in the Department of Computer Science and Engineering, specifically for CSE 421/521: Operating Systems. My duties including holding weekly office hours, grading exams and assignments, and helping students through two projects designed to teach some operating system fundamentals.
+I worked as a teaching assistant in the Department of Computer Science and Engineering, specifically for CSE 421/521: Operating Systems. My duties included holding weekly office hours, grading exams and assignments, and helping students through two projects designed to teach some operating system fundamentals.
 
 #### Graduate Research Assistant, University at Buffalo. June 2023 - Present
 
