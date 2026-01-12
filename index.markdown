@@ -16,7 +16,7 @@ Feel free to browse my website or [view my resume](documents/Alex_Caceres-Wright
 
 * **August 25, 2025:** Started my PhD at the University at Buffalo
 * **September 20, 2024:** Received the Runner-Up Best Student-Led Paper Award at SBP-BRiMS
-* **September 15, 2024:** Accepted a position at s-cubed: Strategic Sustainability Solutions
+* **September 15, 2024:** Accepted a position at Quanturisk Analytics (formerly s-cubed: Strategic Sustainability Solutions)
 * **June 1, 2024:** Received my Master's Degree from the University at Buffalo
 
 ## Featured Work
@@ -112,3 +112,5 @@ Feel free to browse my website or [view my resume](documents/Alex_Caceres-Wright
 * Volunteer Translator, COVID Information Commons. April 2024 - Present.
 * Second Degree Black Belt, Kyokushin Karate. Ken Wa Kan Karate. Achieved March 15, 2015.
 * Assisted with Children's Karate Classes. Ken Wa Kan Karate and Public School 11, Winter 2010 - Summer 2017.
+
+I also maintain a (very sporadically updated) blog at [https://alexcw-5.github.io/](https://alexcw-5.github.io/), mainly focused on PhD, traveling, and some other miscellaneous things.
