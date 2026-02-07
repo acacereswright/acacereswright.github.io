@@ -92,9 +92,9 @@ Feel free to browse my website or [view my resume](documents/Alex_Caceres-Wright
 ### Academic
 
 * Student Host Coordinator for Faculty Candidate Interviews, University at Buffalo, 2025-Present.
-  * Coordinated faculty candidate interviews by liaising between faculty schedulers and PhD students to ensure strong attendance
-  * Managed meeting logistics including catering arrangements in collaboration with department administration
-  * Trained successor coordinators and served as liaison between administrative staff and student volunteers
+  * Coordinating faculty candidate interviews by liaising between faculty schedulers and PhD students to ensure strong attendance
+  * Managing meeting logistics including catering arrangements in collaboration with department administration
+  * Training successor coordinators and served as liaison between administrative staff and student volunteers
 * Mentor, AI for Good Design Challenge, University at Buffalo. October 25-26, 2025.
 * Alumni Mentor, Tri-Mentoring Program: Cognitive Systems Program, University of British Columbia. September 2022-Present.
 * Reviewer, 18th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), 2025.
