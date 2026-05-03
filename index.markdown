@@ -14,6 +14,7 @@ Feel free to browse my website or [view my resume](documents/Alex_Caceres-Wright
 
 ## News
 
+* **May 14, 2026:** I am presenting an invited talk at The Center for Equitable AI & Machine Learning Systems
 * **August 25, 2025:** Started my PhD at the University at Buffalo
 * **September 20, 2024:** Received the Runner-Up Best Student-Led Paper Award at SBP-BRiMS
 * **September 15, 2024:** Accepted a position at Quanturisk Analytics (formerly s-cubed: Strategic Sustainability Solutions)

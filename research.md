@@ -21,6 +21,11 @@ A second project I am working on is expressions of cultural identity on social m
 
 * A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". [Poster](documents/Ic2s2_Poster.pdf) presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
 
+## Invited Talks
+
+* [Title Forthcoming]. Given to the Center at the Center for Equitable AI & Machine Learning Systems, Morgan State University. May 2026.
+* LLMs in Practice. Given to students enrolled in AI 104: Introduction to Computational Expression. Department of Artificial Intelligence and Society, University at Buffalo. April 2026.
+
 ## Academic Service
   
 * Reviewer, 2025 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS)
