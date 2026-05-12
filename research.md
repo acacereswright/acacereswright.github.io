@@ -23,7 +23,7 @@ A second project I am working on is expressions of cultural identity on social m
 
 ## Invited Talks
 
-* [Title Forthcoming]. Given to the Center at the Center for Equitable AI & Machine Learning Systems, Morgan State University. May 2026.
+* Named entity recognition and stance detection using Large Langue Models. Given to the Center at the Center for Equitable AI & Machine Learning Systems (CEAMLS), Morgan State University. May 2026.
 * LLMs in Practice. Given to students enrolled in AI 104: Introduction to Computational Expression. Department of Artificial Intelligence and Society, University at Buffalo. April 2026.
 
 ## Academic Service
