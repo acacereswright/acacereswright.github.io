@@ -29,7 +29,12 @@ author:
 
 # Build settings
 remote_theme: jekyll/minima@d7122a0
-minima:  
+header_pages:
+  - education.md
+  - projects.markdown
+  - research.md
+  - work.md
+minima:
   skin: auto
   social_links:
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/acacereswright" }
