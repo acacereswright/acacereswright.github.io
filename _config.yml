@@ -30,6 +30,7 @@ author:
 # Build settings
 remote_theme: jekyll/minima@d7122a0
 header_pages:
+  - index.markdown
   - education.md
   - projects.markdown
   - research.md

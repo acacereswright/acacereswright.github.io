@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 ![Alex Headshot](img/sunset_profile.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
