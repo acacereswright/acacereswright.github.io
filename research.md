@@ -5,7 +5,7 @@ title: Research
 
 ## Overview
 
-My research mainly lies in the computational social science, natural language processing, and culturally competent large language models domains. I primarily build and apply tools to study identity, culture, and expression. While pursuing my bachelor's degree, I developed a variation of the public goods game and deployed it to collect participant data. More recently, I developed tools to apply Large Language Models, such as Meta's Llama-2, to perform named-individual identification and stance detection on tweets. Currently, I am investigating ways to dynamically extract dimensions of cultures from a given corpus of social media data, and then place an individual within the cultures we have identified. A second part of this investigation is looking into how well LLMs can model these cultures, and respond as if it is a member of that culture.
+My research mainly lies in the computational social science, conversation dynamics, and culturally competent large language models domains. I primarily build and apply tools to study identity, culture, and expression. While pursuing my bachelor's degree, I developed a variation of the public goods game and deployed it to collect participant data. More recently, I developed tools to apply Large Language Models, such as Meta's Llama-2, to perform named-individual identification and stance detection on tweets. Currently, I am working on 
 
 ## Current Projects
 

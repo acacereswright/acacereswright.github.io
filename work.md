@@ -3,16 +3,6 @@ layout: page
 title: Work Experience
 ---
 
-#### Teaching Assistant, University at Buffalo. August 2025 - Present
- 
-##### January 2026 - Present
-
-Currently, I am developing and delivering the first ever offering of *Introduction to Computational Expression* alongside its professor. This course is one of the first to be offered in the University at Buffalo's Department of Artificial Intelligence and Society. Along with traditional teaching assistant duties such as holding office hours and grading, I am helping develop infrastructure to scale the course to a larger number of students in future semesters.
-
-##### August 2025 - December 2025
-
-I worked as a teaching assistant in the Department of Computer Science and Engineering, specifically for CSE 421/521: Operating Systems. My duties included holding weekly office hours, grading exams and assignments, and helping students through two projects designed to teach some operating system fundamentals.
-
 #### Graduate Research Assistant, University at Buffalo. June 2023 - Present
 
 I have been working with the [Computation and Equity (cUBe) Lab](https://cse.buffalo.edu/cubelab/), which is directed by Dr. Kenneth Joseph. Currently, I am investigating how people present themselves online, and how this varies across both geographic location and language. From a more technical perspective this involves working how we can extract meaningful and relevant dimensions from text, and how large language models can aid this extraction.
@@ -23,6 +13,16 @@ Various aspects of my work has appeared in the following conferences:
 
 * A paper published in the proceedings of the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 2024. **[Runner Up, Best Student Lead Paper Award](documents/2024_SBP-BRiMS%20Award.pdf)**
 * A [poster](documents/Ic2s2_Poster.pdf) at the 10th International Conference on Computational Social Science (IC2S2), July 2024.
+
+#### Teaching Assistant, University at Buffalo. August 2025 - May 2026
+ 
+##### January 2026 - May 2026
+
+I helped develop and deliver the first ever offering of *Introduction to Computational Expression* alongside its professor. This course was one of the first to be offered in the University at Buffalo's Department of Artificial Intelligence and Society. Along with traditional teaching assistant duties such as holding office hours and grading, I helped develop infrastructure to scale the course to a larger number of students in future semesters.
+
+##### August 2025 - December 2025
+
+I worked as a teaching assistant in the Department of Computer Science and Engineering, specifically for CSE 421/521: Operating Systems. My duties included holding weekly office hours, grading exams and assignments, and helping students through two projects designed to teach some operating system fundamentals.
 
 #### Data Analyst (Intern), Quanturisk Analytics. September 2024 - June 2025
 
