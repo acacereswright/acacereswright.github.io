@@ -95,4 +95,4 @@ Feel free to browse my website or [view my resume](documents/Alex_Caceres-Wright
 * Second Degree Black Belt, Kyokushin Karate. Ken Wa Kan Karate. Achieved March 15, 2015.
 * Assisted with Children's Karate Classes. Ken Wa Kan Karate and Public School 11, Winter 2010 - Summer 2017.
 
-I also maintain a (very sporadically updated) blog at [https://alexcw-5.github.io/](https://alexcw-5.github.io/), mainly focused on PhD, traveling, and some other miscellaneous things.
+I also maintain a [(very sporadically updated) blog](https://alexcw-5.github.io/), mainly focused on PhD, traveling, and some other miscellaneous things.
