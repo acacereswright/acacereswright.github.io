@@ -9,15 +9,15 @@ Hello! My name is Alex Caceres-Wright. I am a PhD student in Computer Science an
 
 Previously, I spent 10 months working as a data analyst (intern) at Quanturisk Analytics (formerly s-cubed: Strategic Sustainability Solutions). While there, I was fortunate enough to continue my research as a part of the Computation and Equity (cUBe) lab, where I am currently doing my PhD.
 
-I am actively seeking summer internships, and am primarily interested in Data Science, Natural Language Processing, and Applied Machine Learning. However, I am open to any role in the software engineering and data science space, including research. Along with this I am fluent in both English and Spanish.
+I am actively seeking internships, and am primarily interested in Data Science, Natural Language Processing, and Applied Machine Learning. However, I am open to any role in the software engineering and data science space, including research. Along with this I am fluent in both English and Spanish.
 
 Feel free to browse my website or [view my resume](documents/Alex_Caceres-Wright_Resume.pdf) or a [more detailed CV](documents/Alex_Caceres-Wright_CV.pdf).
 
 ## News
 
+* **August 28, 2026:** Will be presenting a poster at *From Social Media Feeds to AI Systems Symposium*, hosted at the University at Buffalo
 * **June 15, 2026:** Had an extended abstract accepted at the 2026 Conference on Complex Systems
 * **May 14, 2026:** Presented an invited talk at The Center for Equitable AI & Machine Learning Systems
-* **August 25, 2025:** Started my PhD at the University at Buffalo
 
 [See all news →](news)
 
