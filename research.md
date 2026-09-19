@@ -17,9 +17,11 @@ A second project I am working on is expressions of cultural identity on social m
 
 * A. Caceres-Wright, N. Udhayasankar, G. Bunn, S. Shuster, K. Joseph. ["Explicit Stance Detection in the Political Domain: A New Concept and Associated Dataset"](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_1). Published at the 17th International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS), September 18-20, 2024. **[Runner Up, Best Student Lead Paper Award](documents/2024_SBP-BRiMS%20Award.pdf)**
 
-## Posters
+## Presentations
 
-* A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". [Poster](documents/Ic2s2_Poster.pdf) presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
+* A. Caceres-Wright, and K. Joseph, “Signals of Receptiveness in Discourse on Reddit over 10 Years”, **Poster**, Rethinking Persuasion: From Social Media to AI Systems Symposium, October 2026
+* A. Caceres-Wright, and K. Joseph, “Signals of Receptiveness in Discourse on Reddit over 10 Years”, **Talk**, Conference on Complex Systems, October 2026
+* A. Caceres-Wright, G. Bunn, S. Shuster, K. Joseph. "Who supports Bernie? Analyzing identity and ideological variation of Bernie supporters on Twitter". [**Poster**](documents/Ic2s2_Poster.pdf) presented at the [10th International Conference on Computational Social Science (IC2S2)](https://ic2s2-2024.org/), July 17-20, 2024.
 
 ## Invited Talks
 
