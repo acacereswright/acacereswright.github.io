@@ -65,6 +65,7 @@ Feel free to browse my website or [view my resume](documents/Alex_Caceres-Wright
 
 ### Academic Involvement
 
+* Mentor, AI Innovation Design Challenge: Innovating For a Brighter Tomorrow. October 3-4, 2026.
 * Student Host Coordinator for Faculty Candidate Interviews, University at Buffalo, 2025-Present.
   * Coordinating faculty candidate interviews by liaising between faculty schedulers and PhD students to ensure strong attendance
   * Managing meeting logistics including catering arrangements in collaboration with department administration
