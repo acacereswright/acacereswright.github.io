@@ -3,7 +3,7 @@ layout: page
 title: News
 ---
 
-* **August 28, 2026:** Will be presenting a poster at *From Social Media to AI Systems: Rethinking Persuasion Symposium*, hosted at the University at Buffalo
+* **October 2, 2026:** Presented a poster at *From Social Media to AI Systems: Rethinking Persuasion Symposium*, hosted at the University at Buffalo
 * **June 15, 2026:** Had an extended abstract accepted at the 2026 Conference on Complex Systems
 * **May 14, 2026:** I presented an invited talk at The Center for Equitable AI & Machine Learning Systems
 * **August 25, 2025:** Started my PhD at the University at Buffalo
